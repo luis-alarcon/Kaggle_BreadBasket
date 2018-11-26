@@ -1,0 +1,1961 @@
+﻿date,time,temperature,dew_point,humidity,wind,wind_speed,wind_gust,pressure,precipitation,precipitation_accumulation,condition
+30/10/2016,12:20 am,52 F ,48 F ,88%,SW,7 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+30/10/2016,12:50 am,52 F ,48 F ,88%,WSW,6 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+30/10/2016,1:20 am,52 F ,48 F ,88%,W,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+30/10/2016,1:50 am,52 F ,48 F ,88%,W,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+30/10/2016,1:20 am,50 F ,48 F ,94%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+30/10/2016,1:50 am,50 F ,48 F ,94%,SW,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+30/10/2016,2:20 am,52 F ,48 F ,88%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+30/10/2016,2:50 am,52 F ,48 F ,88%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+30/10/2016,3:20 am,52 F ,48 F ,88%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+30/10/2016,3:50 am,50 F ,48 F ,94%,W,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+30/10/2016,4:20 am,50 F ,48 F ,94%,SW,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+30/10/2016,4:50 am,50 F ,48 F ,94%,WSW,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+30/10/2016,5:20 am,48 F ,46 F ,93%,SW,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+30/10/2016,5:50 am,50 F ,48 F ,94%,SW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+30/10/2016,6:20 am,50 F ,48 F ,94%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+30/10/2016,6:50 am,50 F ,48 F ,94%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+30/10/2016,7:20 am,50 F ,48 F ,94%,SW,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+30/10/2016,7:50 am,50 F ,48 F ,94%,WSW,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,8:20 am,50 F ,48 F ,94%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,8:50 am,50 F ,48 F ,94%,W,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,9:20 am,52 F ,48 F ,88%,WSW,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,9:50 am,54 F ,50 F ,88%,VAR,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,10:20 am,54 F ,50 F ,88%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,10:50 am,55 F ,50 F ,82%,W,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,11:20 am,57 F ,50 F ,77%,WSW,8 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,11:50 am,55 F ,50 F ,82%,W,8 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+30/10/2016,12:20 pm,55 F ,50 F ,82%,W,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,12:50 pm,55 F ,50 F ,82%,W,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,1:20 pm,57 F ,50 F ,77%,W,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,1:50 pm,57 F ,50 F ,77%,W,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,2:20 pm,57 F ,50 F ,77%,W,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,2:50 pm,57 F ,50 F ,77%,W,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,3:20 pm,57 F ,50 F ,77%,W,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,3:50 pm,57 F ,50 F ,77%,WSW,8 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,4:20 pm,54 F ,50 F ,88%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,4:50 pm,52 F ,48 F ,88%,W,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,5:20 pm,50 F ,48 F ,94%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,5:50 pm,50 F ,46 F ,87%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,6:20 pm,50 F ,48 F ,94%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,6:50 pm,50 F ,48 F ,94%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,7:20 pm,52 F ,48 F ,88%,WSW,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,7:50 pm,52 F ,50 F ,94%,W,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,8:20 pm,52 F ,48 F ,88%,W,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,8:50 pm,52 F ,50 F ,94%,W,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,9:20 pm,52 F ,50 F ,94%,WSW,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,9:50 pm,50 F ,48 F ,94%,VAR,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,10:20 pm,52 F ,48 F ,88%,W,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,10:50 pm,50 F ,48 F ,94%,VAR,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,11:20 pm,50 F ,48 F ,94%,SW,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/10/2016,11:50 pm,50 F ,48 F ,94%,WSW,8 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,12:20 am,50 F ,48 F ,94%,SW,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,12:50 am,50 F ,48 F ,94%,WSW,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,1:20 am,50 F ,48 F ,94%,WSW,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,1:50 am,50 F ,46 F ,87%,SW,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,2:20 am,46 F ,45 F ,93%,SW,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,2:50 am,46 F ,45 F ,93%,WSW,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,3:20 am,48 F ,46 F ,93%,SW,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,3:50 am,48 F ,46 F ,93%,W,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,4:20 am,48 F ,46 F ,93%,W,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,4:50 am,48 F ,46 F ,93%,W,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,5:20 am,48 F ,46 F ,93%,WSW,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,5:50 am,48 F ,46 F ,93%,WSW,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,6:20 am,50 F ,46 F ,87%,WSW,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,6:50 am,50 F ,46 F ,87%,W,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,7:20 am,48 F ,46 F ,93%,WSW,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,7:50 am,50 F ,46 F ,87%,WSW,9 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,8:20 am,48 F ,46 F ,93%,VAR,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,8:50 am,50 F ,46 F ,87%,W,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,9:20 am,52 F ,48 F ,88%,W,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,9:50 am,54 F ,48 F ,82%,WSW,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,10:20 am,54 F ,50 F ,88%,W,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,10:50 am,55 F ,50 F ,82%,W,10 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,11:20 am,55 F ,50 F ,82%,WSW,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,11:50 am,55 F ,50 F ,82%,W,9 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,12:20 pm,57 F ,50 F ,77%,W,10 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,12:50 pm,57 F ,50 F ,77%,WSW,9 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,1:20 pm,59 F ,50 F ,72%,WSW,9 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Partly Cloudy
+31/10/2016,1:50 pm,57 F ,50 F ,77%,WSW,10 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,2:20 pm,57 F ,50 F ,77%,WSW,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,2:50 pm,57 F ,50 F ,77%,W,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,3:20 pm,57 F ,50 F ,77%,WSW,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,3:50 pm,55 F ,50 F ,82%,W,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,4:20 pm,52 F ,48 F ,88%,W,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,4:50 pm,50 F ,48 F ,94%,WSW,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,5:20 pm,50 F ,46 F ,87%,WSW,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,5:50 pm,50 F ,46 F ,87%,WSW,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+31/10/2016,6:20 pm,52 F ,50 F ,94%,WSW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Partly Cloudy
+31/10/2016,6:50 pm,52 F ,50 F ,94%,WSW,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+31/10/2016,7:20 pm,52 F ,50 F ,94%,WSW,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Rain
+31/10/2016,7:50 pm,52 F ,50 F ,94%,N,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Rain
+31/10/2016,8:20 pm,50 F ,48 F ,94%,NE,12 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Rain
+31/10/2016,8:50 pm,48 F ,48 F ,100%,ENE,9 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Light Rain
+31/10/2016,9:20 pm,48 F ,48 F ,100%,ENE,9 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Light Rain
+31/10/2016,9:50 pm,48 F ,48 F ,100%,E,8 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Rain
+31/10/2016,10:20 pm,48 F ,46 F ,93%,ENE,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Light Rain
+31/10/2016,10:50 pm,48 F ,46 F ,93%,E,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Light Rain
+31/10/2016,11:20 pm,48 F ,46 F ,93%,ENE,8 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Light Drizzle
+31/10/2016,11:50 pm,48 F ,46 F ,93%,ENE,8 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Light Drizzle
+01/11/2016,12:20 am,48 F ,46 F ,93%,NE,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Drizzle
+01/11/2016,12:50 am,46 F ,46 F ,100%,NNE,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Light Rain
+01/11/2016,1:20 am,46 F ,45 F ,93%,NNE,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+01/11/2016,1:50 am,46 F ,43 F ,87%,NNE,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+01/11/2016,2:20 am,46 F ,43 F ,87%,NNE,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+01/11/2016,2:50 am,46 F ,41 F ,81%,NNE,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+01/11/2016,3:20 am,46 F ,41 F ,81%,NNE,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+01/11/2016,3:50 am,45 F ,41 F ,87%,NE,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+01/11/2016,4:20 am,43 F ,41 F ,93%,NE,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+01/11/2016,4:50 am,39 F ,37 F ,93%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,5:20 am,37 F ,36 F ,93%,SW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,5:50 am,37 F ,36 F ,93%,SW,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,6:20 am,36 F ,34 F ,93%,WSW,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,6:50 am,37 F ,36 F ,93%,WSW,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,7:20 am,36 F ,34 F ,93%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,7:50 am,36 F ,34 F ,93%,VAR,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,8:20 am,36 F ,36 F ,100%,VAR,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,8:50 am,37 F ,37 F ,100%,SSW,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,9:20 am,41 F ,37 F ,87%,WSW,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,9:50 am,43 F ,39 F ,87%,W,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,10:20 am,46 F ,39 F ,76%,W,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,10:50 am,48 F ,37 F ,66%,WNW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,11:20 am,48 F ,37 F ,66%,WNW,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,11:50 am,48 F ,37 F ,66%,W,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,12:20 pm,48 F ,36 F ,62%,WNW,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+01/11/2016,12:50 pm,48 F ,36 F ,62%,WNW,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+01/11/2016,1:20 pm,50 F ,36 F ,58%,W,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,1:50 pm,50 F ,37 F ,62%,W,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+01/11/2016,2:20 pm,48 F ,36 F ,62%,W,8 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,2:50 pm,48 F ,37 F ,66%,W,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,3:20 pm,48 F ,36 F ,62%,W,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,3:50 pm,46 F ,37 F ,71%,WSW,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,4:20 pm,45 F ,36 F ,71%,WSW,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,4:50 pm,39 F ,36 F ,87%,WSW,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,5:20 pm,39 F ,36 F ,87%,WSW,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,5:50 pm,39 F ,36 F ,87%,W,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,6:20 pm,39 F ,36 F ,87%,WSW,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,6:50 pm,36 F ,34 F ,93%,WSW,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,7:20 pm,37 F ,34 F ,87%,WSW,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,7:50 pm,36 F ,34 F ,93%,WSW,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,8:20 pm,36 F ,34 F ,93%,WSW,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,8:50 pm,36 F ,34 F ,93%,WSW,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,9:20 pm,37 F ,34 F ,87%,WSW,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,9:50 pm,37 F ,36 F ,93%,WSW,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,10:20 pm,37 F ,36 F ,93%,WSW,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,10:50 pm,36 F ,34 F ,93%,W,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,11:20 pm,34 F ,32 F ,93%,W,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,11:50 pm,39 F ,36 F ,87%,W,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,12:20 am,41 F ,36 F ,81%,W,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,12:50 am,36 F ,34 F ,93%,SW,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,1:20 am,36 F ,34 F ,93%,W,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,1:50 am,37 F ,34 F ,87%,SW,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,2:20 am,37 F ,34 F ,87%,W,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,2:50 am,37 F ,34 F ,87%,W,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,3:20 am,36 F ,34 F ,93%,S,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,3:50 am,36 F ,32 F ,87%,WSW,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,4:20 am,37 F ,34 F ,87%,WSW,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,4:50 am,36 F ,32 F ,87%,SW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,5:20 am,36 F ,32 F ,87%,SW,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,5:50 am,36 F ,32 F ,87%,SSW,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,6:20 am,36 F ,32 F ,87%,SW,9 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,6:50 am,36 F ,32 F ,87%,S,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,7:20 am,36 F ,32 F ,87%,W,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,7:50 am,37 F ,34 F ,87%,WSW,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,8:20 am,37 F ,34 F ,87%,WSW,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,8:50 am,41 F ,37 F ,87%,WSW,9 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,9:20 am,43 F ,37 F ,81%,WSW,13 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,9:50 am,43 F ,37 F ,81%,WSW,10 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,10:20 am,43 F ,37 F ,81%,WSW,12 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,10:50 am,45 F ,39 F ,81%,WSW,12 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,11:20 am,48 F ,39 F ,71%,WSW,10 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,11:50 am,46 F ,39 F ,76%,W,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,12:20 pm,48 F ,39 F ,71%,W,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,12:50 pm,48 F ,39 F ,71%,W,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,1:20 pm,50 F ,39 F ,66%,W,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,1:50 pm,50 F ,39 F ,66%,W,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,2:20 pm,50 F ,39 F ,66%,W,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,2:50 pm,50 F ,37 F ,62%,W,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,3:20 pm,48 F ,37 F ,66%,WSW,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,3:50 pm,45 F ,37 F ,76%,WSW,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,4:20 pm,41 F ,36 F ,81%,WSW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,4:50 pm,41 F ,37 F ,87%,WSW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,5:20 pm,41 F ,36 F ,81%,SSW,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,5:50 pm,39 F ,36 F ,87%,WSW,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,6:20 pm,39 F ,36 F ,87%,WSW,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,6:50 pm,39 F ,36 F ,87%,W,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,7:20 pm,37 F ,34 F ,87%,WSW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,7:50 pm,37 F ,36 F ,93%,WSW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,8:20 pm,37 F ,36 F ,93%,W,3 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+01/11/2016,8:50 pm,37 F ,36 F ,93%,W,6 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,9:20 pm,37 F ,36 F ,93%,W,5 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,9:50 pm,37 F ,37 F ,100%,WSW,2 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,10:20 pm,39 F ,37 F ,93%,W,3 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,10:50 pm,39 F ,36 F ,87%,VAR,1 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,11:20 pm,37 F ,36 F ,93%,VAR,2 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+02/11/2016,11:50 pm,36 F ,34 F ,93%,SW,5 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,12:20 am,36 F ,36 F ,100%,VAR,2 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,12:50 am,36 F ,36 F ,100%,W,2 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,1:20 am,37 F ,36 F ,93%,W,1 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,1:50 am,39 F ,37 F ,93%,W,3 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,2:20 am,41 F ,39 F ,93%,W,5 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Light Rain
+03/11/2016,2:50 am,43 F ,39 F ,87%,W,6 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Light Rain
+03/11/2016,3:20 am,43 F ,39 F ,87%,W,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Light Rain
+03/11/2016,3:50 am,43 F ,41 F ,93%,WSW,7 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Light Rain
+03/11/2016,4:20 am,43 F ,41 F ,93%,WSW,6 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Light Rain
+03/11/2016,4:50 am,43 F ,41 F ,93%,WSW,6 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Light Rain
+03/11/2016,5:20 am,43 F ,41 F ,93%,WSW,7 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Light Rain
+03/11/2016,5:50 am,43 F ,41 F ,93%,WSW,8 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,6:20 am,43 F ,39 F ,87%,WSW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,6:50 am,43 F ,41 F ,93%,WSW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,7:20 am,45 F ,41 F ,87%,WSW,6 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,7:50 am,43 F ,39 F ,87%,W,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,8:20 am,45 F ,41 F ,87%,WSW,7 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,8:50 am,45 F ,41 F ,87%,SW,8 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,9:20 am,45 F ,41 F ,87%,SSW,6 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,9:50 am,45 F ,41 F ,87%,SSW,9 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,10:20 am,46 F ,41 F ,81%,SW,9 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,10:50 am,46 F ,41 F ,81%,SW,12 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,11:20 am,48 F ,43 F ,82%,WSW,14 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,11:50 am,48 F ,41 F ,76%,WSW,14 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+03/11/2016,12:20 pm,48 F ,43 F ,82%,SW,12 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+03/11/2016,12:50 pm,48 F ,43 F ,82%,SW,16 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+03/11/2016,1:20 pm,48 F ,43 F ,82%,SW,13 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy
+03/11/2016,1:50 pm,48 F ,43 F ,82%,SW,13 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,2:20 pm,48 F ,43 F ,82%,SW,14 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,2:50 pm,48 F ,43 F ,82%,SW,15 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,3:20 pm,48 F ,43 F ,82%,SW,13 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Showers in the Vicinity
+03/11/2016,3:50 pm,48 F ,43 F ,82%,SW,12 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Showers in the Vicinity
+03/11/2016,4:20 pm,46 F ,43 F ,87%,SW,12 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Light Rain Shower
+03/11/2016,4:50 pm,46 F ,43 F ,87%,SW,12 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Showers in the Vicinity
+03/11/2016,5:20 pm,46 F ,43 F ,87%,SW,12 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+03/11/2016,5:50 pm,46 F ,43 F ,87%,SW,14 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+03/11/2016,6:20 pm,48 F ,43 F ,82%,SW,15 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+03/11/2016,6:50 pm,46 F ,45 F ,93%,WSW,10 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Mostly Cloudy
+03/11/2016,7:20 pm,46 F ,45 F ,93%,WSW,9 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+03/11/2016,7:50 pm,46 F ,45 F ,93%,WSW,8 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Mostly Cloudy
+03/11/2016,8:20 pm,46 F ,45 F ,93%,WSW,8 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+03/11/2016,8:50 pm,46 F ,45 F ,93%,WSW,7 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,9:20 pm,46 F ,45 F ,93%,WSW,9 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+03/11/2016,9:50 pm,46 F ,43 F ,87%,WSW,9 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+03/11/2016,10:20 pm,45 F ,43 F ,93%,WSW,7 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+03/11/2016,10:50 pm,43 F ,41 F ,93%,WSW,6 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+03/11/2016,11:20 pm,45 F ,43 F ,93%,WSW,9 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Light Rain
+03/11/2016,11:50 pm,45 F ,41 F ,87%,W,7 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,12:20 am,45 F ,41 F ,87%,WSW,7 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Mostly Cloudy
+04/11/2016,12:50 am,43 F ,39 F ,87%,WSW,9 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Mostly Cloudy
+04/11/2016,1:20 am,43 F ,39 F ,87%,WSW,10 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Mostly Cloudy
+04/11/2016,1:50 am,43 F ,39 F ,87%,WSW,9 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Light Rain
+04/11/2016,2:20 am,41 F ,37 F ,87%,WSW,12 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,2:50 am,39 F ,36 F ,87%,WSW,7 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,3:20 am,39 F ,36 F ,87%,WSW,7 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,3:50 am,39 F ,36 F ,87%,W,6 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,4:20 am,39 F ,36 F ,87%,WSW,6 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,4:50 am,37 F ,36 F ,93%,WSW,8 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,5:20 am,37 F ,36 F ,93%,WSW,7 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,5:50 am,37 F ,34 F ,87%,W,6 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,6:20 am,37 F ,36 F ,93%,VAR,2 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,6:50 am,37 F ,34 F ,87%,WSW,8 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,7:20 am,36 F ,34 F ,93%,W,7 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,7:50 am,37 F ,34 F ,87%,W,5 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,8:20 am,37 F ,34 F ,87%,VAR,3 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,8:50 am,39 F ,36 F ,87%,W,5 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,9:20 am,41 F ,37 F ,87%,WSW,8 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Showers in the Vicinity
+04/11/2016,9:50 am,43 F ,39 F ,87%,WSW,8 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,10:20 am,45 F ,39 F ,81%,W,6 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Mostly Cloudy
+04/11/2016,10:50 am,45 F ,39 F ,81%,W,6 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+04/11/2016,11:20 am,45 F ,41 F ,87%,W,5 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Mostly Cloudy
+04/11/2016,11:50 am,46 F ,39 F ,76%,NNW,5 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+04/11/2016,12:20 pm,46 F ,39 F ,76%,NW,5 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+04/11/2016,12:50 pm,45 F ,37 F ,76%,NW,5 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+04/11/2016,1:20 pm,45 F ,37 F ,76%,VAR,3 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+04/11/2016,1:50 pm,46 F ,37 F ,71%,WNW,5 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+04/11/2016,2:20 pm,46 F ,36 F ,66%,WNW,5 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+04/11/2016,2:50 pm,46 F ,36 F ,66%,WNW,5 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,3:20 pm,45 F ,36 F ,71%,VAR,3 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,3:50 pm,43 F ,37 F ,81%,W,3 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,4:20 pm,41 F ,36 F ,81%,W,5 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,4:50 pm,41 F ,37 F ,87%,W,5 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+04/11/2016,5:20 pm,43 F ,37 F ,81%,NW,5 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,5:50 pm,43 F ,39 F ,87%,VAR,3 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Light Rain
+04/11/2016,6:20 pm,43 F ,39 F ,87%,VAR,3 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Light Rain
+04/11/2016,6:50 pm,43 F ,39 F ,87%,VAR,3 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Mostly Cloudy
+04/11/2016,7:20 pm,43 F ,37 F ,81%,NNW,5 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,7:50 pm,43 F ,37 F ,81%,VAR,2 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+04/11/2016,8:20 pm,43 F ,39 F ,87%,WNW,5 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Mostly Cloudy
+04/11/2016,8:50 pm,43 F ,37 F ,81%,VAR,3 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Mostly Cloudy
+04/11/2016,9:20 pm,43 F ,37 F ,81%,VAR,3 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,9:50 pm,41 F ,36 F ,81%,NNW,6 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,10:20 pm,41 F ,36 F ,81%,NNW,7 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,10:50 pm,41 F ,36 F ,81%,NNW,7 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,11:20 pm,41 F ,36 F ,81%,NNW,7 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+04/11/2016,11:50 pm,43 F ,36 F ,76%,NNW,5 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+05/11/2016,12:20 am,41 F ,36 F ,81%,N,6 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,12:50 am,41 F ,36 F ,81%,NW,5 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Mostly Cloudy
+05/11/2016,1:20 am,41 F ,34 F ,76%,NW,6 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Mostly Cloudy
+05/11/2016,1:50 am,41 F ,34 F ,76%,NNW,5 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+05/11/2016,2:20 am,41 F ,34 F ,76%,N,8 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Mostly Cloudy
+05/11/2016,2:50 am,41 F ,34 F ,76%,NNW,5 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,3:20 am,41 F ,34 F ,76%,NNW,6 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,3:50 am,39 F ,32 F ,75%,VAR,3 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,4:20 am,39 F ,32 F ,75%,NNW,5 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,4:50 am,39 F ,32 F ,75%,NNW,8 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,5:20 am,39 F ,32 F ,75%,WNW,5 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy
+05/11/2016,5:50 am,39 F ,30 F ,70%,NNW,7 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,6:20 am,39 F ,30 F ,70%,NW,6 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,6:50 am,39 F ,30 F ,70%,NNW,6 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,7:20 am,39 F ,30 F ,70%,NNW,9 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,7:50 am,39 F ,30 F ,70%,NNW,8 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,8:20 am,39 F ,30 F ,70%,NNW,7 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,8:50 am,41 F ,30 F ,65%,NW,6 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,9:20 am,41 F ,32 F ,70%,NNW,6 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,9:50 am,41 F ,32 F ,70%,NNW,8 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,10:20 am,43 F ,34 F ,70%,NNW,10 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,10:50 am,43 F ,34 F ,70%,NNW,10 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,11:20 am,45 F ,32 F ,61%,NNW,10 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,11:50 am,45 F ,32 F ,61%,NNW,12 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,12:20 pm,45 F ,32 F ,61%,NNW,13 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,12:50 pm,45 F ,32 F ,61%,NNW,12 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,1:20 pm,45 F ,32 F ,61%,N,12 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy
+05/11/2016,1:50 pm,45 F ,32 F ,61%,N,12 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,2:20 pm,45 F ,32 F ,61%,N,10 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,2:50 pm,45 F ,32 F ,61%,NNW,12 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,3:20 pm,43 F ,32 F ,66%,NNW,12 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy
+05/11/2016,3:50 pm,43 F ,32 F ,66%,NNW,7 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,4:20 pm,43 F ,32 F ,66%,WNW,6 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,4:50 pm,41 F ,32 F ,70%,NW,6 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,5:20 pm,41 F ,30 F ,65%,NW,6 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,5:50 pm,41 F ,30 F ,65%,NW,6 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,6:20 pm,41 F ,30 F ,65%,NW,6 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,6:50 pm,41 F ,30 F ,65%,NW,7 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,7:20 pm,41 F ,32 F ,70%,NW,8 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,7:50 pm,41 F ,32 F ,70%,NW,8 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,8:20 pm,41 F ,30 F ,65%,NW,8 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,8:50 pm,41 F ,32 F ,70%,NW,6 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,9:20 pm,41 F ,32 F ,70%,NW,6 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,9:50 pm,41 F ,32 F ,70%,NW,7 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,10:20 pm,41 F ,32 F ,70%,NW,7 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,10:50 pm,39 F ,32 F ,75%,NNW,6 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,11:20 pm,39 F ,32 F ,75%,NW,6 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+05/11/2016,11:50 pm,39 F ,32 F ,75%,VAR,3 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,12:20 am,39 F ,32 F ,75%,NW,6 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,12:50 am,39 F ,32 F ,75%,NW,7 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,1:20 am,39 F ,32 F ,75%,NNW,6 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,1:50 am,39 F ,32 F ,75%,NNW,9 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,2:20 am,39 F ,32 F ,75%,NNW,9 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,2:50 am,41 F ,32 F ,70%,NNW,9 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,3:20 am,41 F ,32 F ,70%,NW,8 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,3:50 am,41 F ,32 F ,70%,NW,6 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,4:20 am,41 F ,32 F ,70%,NNW,12 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,4:50 am,41 F ,32 F ,70%,NW,9 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,5:20 am,41 F ,32 F ,70%,NW,9 mph ,21 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy
+06/11/2016,5:50 am,41 F ,32 F ,70%,NNW,8 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Mostly Cloudy
+06/11/2016,6:20 am,41 F ,32 F ,70%,NNW,8 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,6:50 am,41 F ,34 F ,76%,NW,9 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy
+06/11/2016,7:20 am,43 F ,34 F ,70%,NNW,7 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy
+06/11/2016,7:50 am,43 F ,34 F ,70%,NNW,8 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy
+06/11/2016,8:20 am,43 F ,34 F ,70%,NNW,10 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy
+06/11/2016,8:50 am,43 F ,34 F ,70%,N,10 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy
+06/11/2016,9:20 am,43 F ,34 F ,70%,N,12 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,9:50 am,43 F ,34 F ,70%,N,8 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,10:20 am,45 F ,34 F ,66%,N,10 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy
+06/11/2016,10:50 am,45 F ,36 F ,71%,N,9 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+06/11/2016,11:20 am,45 F ,36 F ,71%,N,9 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+06/11/2016,11:50 am,45 F ,36 F ,71%,N,10 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+06/11/2016,12:20 pm,46 F ,36 F ,66%,N,12 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+06/11/2016,12:50 pm,45 F ,36 F ,71%,N,10 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+06/11/2016,1:20 pm,46 F ,36 F ,66%,N,9 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+06/11/2016,1:50 pm,45 F ,36 F ,71%,N,10 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+06/11/2016,2:20 pm,46 F ,36 F ,66%,NNW,8 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,2:50 pm,46 F ,36 F ,66%,N,9 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,3:20 pm,45 F ,36 F ,71%,N,6 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+06/11/2016,3:50 pm,45 F ,36 F ,71%,N,8 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+06/11/2016,4:20 pm,45 F ,36 F ,71%,N,8 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+06/11/2016,4:50 pm,43 F ,36 F ,76%,N,7 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Cloudy
+06/11/2016,5:20 pm,43 F ,34 F ,70%,NNW,5 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+06/11/2016,5:50 pm,41 F ,34 F ,76%,NNW,6 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,6:20 pm,41 F ,34 F ,76%,NNW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,6:50 pm,41 F ,34 F ,76%,NNW,6 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,7:20 pm,41 F ,34 F ,76%,N,6 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,7:50 pm,39 F ,34 F ,81%,N,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,8:20 pm,39 F ,34 F ,81%,N,6 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,8:50 pm,39 F ,34 F ,81%,N,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,9:20 pm,39 F ,34 F ,81%,N,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,9:50 pm,39 F ,34 F ,81%,NNW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,10:20 pm,36 F ,32 F ,87%,VAR,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,10:50 pm,36 F ,32 F ,87%,VAR,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,11:20 pm,32 F ,30 F ,93%,VAR,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+06/11/2016,11:50 pm,36 F ,30 F ,81%,VAR,1 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,12:20 am,36 F ,32 F ,87%,VAR,1 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,12:50 am,36 F ,32 F ,87%,VAR,1 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,1:20 am,37 F ,32 F ,81%,VAR,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,1:50 am,34 F ,30 F ,87%,VAR,1 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,2:20 am,34 F ,32 F ,93%,VAR,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,2:50 am,39 F ,32 F ,75%,NW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+07/11/2016,3:20 am,39 F ,34 F ,81%,WNW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+07/11/2016,3:50 am,39 F ,32 F ,75%,W,6 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+07/11/2016,4:20 am,37 F ,32 F ,81%,W,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+07/11/2016,4:50 am,36 F ,32 F ,87%,WSW,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,5:20 am,37 F ,32 F ,81%,VAR,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Cloudy
+07/11/2016,5:50 am,39 F ,34 F ,81%,WNW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+07/11/2016,6:20 am,39 F ,32 F ,75%,VAR,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+07/11/2016,6:50 am,39 F ,32 F ,75%,VAR,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+07/11/2016,7:20 am,39 F ,34 F ,81%,VAR,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+07/11/2016,7:50 am,41 F ,34 F ,76%,W,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+07/11/2016,8:20 am,41 F ,34 F ,76%,WNW,7 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+07/11/2016,8:50 am,39 F ,32 F ,75%,N,7 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+07/11/2016,9:20 am,41 F ,34 F ,76%,N,7 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,9:50 am,43 F ,34 F ,70%,NNW,6 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,10:20 am,43 F ,34 F ,70%,WNW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,10:50 am,43 F ,32 F ,66%,NNW,6 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,11:20 am,45 F ,34 F ,66%,N,8 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,11:50 am,43 F ,32 F ,66%,N,7 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,12:20 pm,45 F ,32 F ,61%,N,8 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,12:50 pm,45 F ,32 F ,61%,NNE,8 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,1:20 pm,45 F ,32 F ,61%,N,9 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+07/11/2016,1:50 pm,45 F ,32 F ,61%,N,8 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+07/11/2016,2:20 pm,45 F ,32 F ,61%,N,8 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,2:50 pm,45 F ,32 F ,61%,NNW,7 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,3:20 pm,43 F ,32 F ,66%,N,6 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,3:50 pm,43 F ,32 F ,66%,VAR,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,4:50 pm,41 F ,30 F ,65%,VAR,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,5:50 pm,41 F ,32 F ,70%,N,7 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,6:20 pm,41 F ,32 F ,70%,N,6 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,6:50 pm,41 F ,32 F ,70%,NNW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,7:20 pm,41 F ,32 F ,70%,NNW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,7:50 pm,41 F ,32 F ,70%,NNW,6 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,8:20 pm,41 F ,32 F ,70%,NNW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,8:50 pm,41 F ,30 F ,65%,VAR,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,9:20 pm,41 F ,32 F ,70%,NW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,9:50 pm,41 F ,32 F ,70%,VAR,1 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,10:20 pm,41 F ,32 F ,70%,VAR,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,10:50 pm,41 F ,32 F ,70%,VAR,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,11:20 pm,41 F ,32 F ,70%,WNW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+07/11/2016,11:50 pm,39 F ,32 F ,75%,VAR,2 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,12:20 am,37 F ,32 F ,81%,WSW,5 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,12:50 am,37 F ,32 F ,81%,WSW,6 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,1:20 am,37 F ,32 F ,81%,WSW,5 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,1:50 am,37 F ,32 F ,81%,WSW,3 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,2:20 am,37 F ,32 F ,81%,WSW,5 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,2:50 am,37 F ,32 F ,81%,WSW,3 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,3:20 am,37 F ,30 F ,75%,VAR,1 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,3:50 am,36 F ,30 F ,81%,WSW,2 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,4:20 am,36 F ,30 F ,81%,W,1 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,4:50 am,36 F ,30 F ,81%,VAR,1 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,5:20 am,36 F ,30 F ,81%,WSW,3 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,5:50 am,34 F ,30 F ,87%,WSW,5 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,6:20 am,36 F ,30 F ,81%,VAR,3 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,6:50 am,36 F ,30 F ,81%,W,5 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,7:20 am,36 F ,30 F ,81%,WSW,3 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,7:50 am,34 F ,30 F ,87%,W,3 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,8:20 am,36 F ,30 F ,81%,W,3 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,8:50 am,36 F ,32 F ,87%,WSW,2 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,9:20 am,37 F ,32 F ,81%,W,2 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,9:50 am,37 F ,30 F ,75%,VAR,1 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,10:20 am,39 F ,32 F ,75%,VAR,2 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,10:50 am,39 F ,32 F ,75%,VAR,1 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,11:20 am,39 F ,32 F ,75%,W,2 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,11:50 am,39 F ,32 F ,75%,NNE,2 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,12:20 pm,41 F ,32 F ,70%,NE,2 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,12:50 pm,41 F ,34 F ,76%,VAR,3 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,1:20 pm,41 F ,34 F ,76%,VAR,3 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,1:50 pm,41 F ,32 F ,70%,SE,5 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,2:20 pm,41 F ,30 F ,65%,SE,7 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,2:50 pm,41 F ,30 F ,65%,VAR,6 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,3:20 pm,41 F ,30 F ,65%,E,6 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,3:50 pm,41 F ,30 F ,65%,ESE,7 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,4:20 pm,41 F ,32 F ,70%,E,6 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,4:50 pm,41 F ,30 F ,65%,ESE,7 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,5:20 pm,41 F ,28 F ,61%,E,6 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,5:50 pm,41 F ,28 F ,61%,VAR,2 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+08/11/2016,6:20 pm,39 F ,28 F ,65%,S,6 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+08/11/2016,6:50 pm,37 F ,32 F ,81%,SSE,9 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Light Rain
+08/11/2016,7:20 pm,37 F ,32 F ,81%,SE,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+08/11/2016,7:50 pm,37 F ,32 F ,81%,ESE,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+08/11/2016,8:20 pm,37 F ,32 F ,81%,VAR,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+08/11/2016,8:50 pm,37 F ,34 F ,87%,ENE,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+08/11/2016,9:20 pm,37 F ,34 F ,87%,ESE,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+08/11/2016,9:50 pm,37 F ,32 F ,81%,E,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+08/11/2016,10:20 pm,37 F ,32 F ,81%,E,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+08/11/2016,10:50 pm,37 F ,34 F ,87%,E,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+08/11/2016,11:20 pm,37 F ,34 F ,87%,SE,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+08/11/2016,11:50 pm,37 F ,34 F ,87%,ESE,9 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,12:20 am,37 F ,32 F ,81%,VAR,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,12:50 am,37 F ,34 F ,87%,E,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,1:20 am,37 F ,34 F ,87%,E,7 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,1:50 am,37 F ,34 F ,87%,E,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,2:20 am,37 F ,34 F ,87%,ENE,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,2:50 am,37 F ,34 F ,87%,E,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,3:20 am,37 F ,32 F ,81%,E,7 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,3:50 am,37 F ,34 F ,87%,E,7 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,4:20 am,37 F ,34 F ,87%,E,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,4:50 am,37 F ,34 F ,87%,NNE,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,5:20 am,37 F ,34 F ,87%,NE,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,5:50 am,37 F ,34 F ,87%,NE,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,6:20 am,37 F ,34 F ,87%,E,7 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,6:50 am,37 F ,34 F ,87%,E,7 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,7:20 am,36 F ,34 F ,93%,E,7 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,7:50 am,36 F ,34 F ,93%,ENE,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,8:20 am,36 F ,34 F ,93%,ENE,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,8:50 am,36 F ,36 F ,100%,NE,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,9:20 am,37 F ,36 F ,93%,NE,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,9:50 am,37 F ,36 F ,93%,NE,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,10:20 am,37 F ,36 F ,93%,NNE,2 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,10:50 am,37 F ,36 F ,93%,VAR,2 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,11:20 am,37 F ,34 F ,87%,VAR,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,11:50 am,39 F ,36 F ,87%,VAR,1 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+09/11/2016,12:20 pm,39 F ,36 F ,87%,NNW,1 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Wintry Mix
+09/11/2016,12:50 pm,39 F ,36 F ,87%,NW,2 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/11/2016,1:20 pm,39 F ,36 F ,87%,W,2 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/11/2016,1:50 pm,39 F ,36 F ,87%,W,2 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/11/2016,2:20 pm,39 F ,36 F ,87%,VAR,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/11/2016,2:50 pm,39 F ,36 F ,87%,VAR,2 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/11/2016,3:20 pm,39 F ,36 F ,87%,VAR,2 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/11/2016,3:50 pm,39 F ,36 F ,87%,W,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/11/2016,4:20 pm,39 F ,36 F ,87%,WSW,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Cloudy
+09/11/2016,4:50 pm,39 F ,36 F ,87%,W,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Cloudy
+09/11/2016,5:20 pm,39 F ,36 F ,87%,SW,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Cloudy
+09/11/2016,5:50 pm,39 F ,34 F ,81%,SW,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Cloudy
+09/11/2016,6:20 pm,39 F ,34 F ,81%,SSW,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Cloudy
+09/11/2016,6:50 pm,39 F ,36 F ,87%,SW,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Cloudy
+09/11/2016,7:20 pm,39 F ,34 F ,81%,VAR,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/11/2016,7:50 pm,37 F ,34 F ,87%,SW,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/11/2016,8:20 pm,37 F ,34 F ,87%,VAR,2 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/11/2016,8:50 pm,36 F ,34 F ,93%,NW,2 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/11/2016,9:20 pm,36 F ,34 F ,93%,CALM,0 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/11/2016,9:50 pm,36 F ,34 F ,93%,VAR,1 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Cloudy
+09/11/2016,10:20 pm,34 F ,34 F ,100%,CALM,0 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+09/11/2016,10:50 pm,34 F ,34 F ,100%,ENE,2 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+09/11/2016,11:20 pm,34 F ,32 F ,93%,VAR,1 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mist
+09/11/2016,11:50 pm,34 F ,32 F ,93%,CALM,0 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,12:20 am,32 F ,30 F ,93%,SE,1 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,12:50 am,30 F ,30 F ,100%,CALM,0 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mist
+10/11/2016,1:20 am,30 F ,28 F ,93%,NE,2 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mist
+10/11/2016,1:50 am,30 F ,28 F ,93%,CALM,0 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,2:20 am,32 F ,30 F ,93%,NNW,2 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,2:50 am,34 F ,34 F ,100%,VAR,2 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Rain
+10/11/2016,3:20 am,37 F ,37 F ,100%,VAR,3 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Rain
+10/11/2016,3:50 am,39 F ,39 F ,100%,VAR,2 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Light Rain
+10/11/2016,4:20 am,39 F ,37 F ,93%,SW,7 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Cloudy
+10/11/2016,4:50 am,39 F ,37 F ,93%,WSW,8 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Partly Cloudy
+10/11/2016,5:20 am,39 F ,37 F ,93%,WSW,10 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,5:50 am,39 F ,37 F ,93%,W,7 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,6:20 am,37 F ,36 F ,93%,W,5 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,6:50 am,36 F ,34 F ,93%,WSW,8 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,7:20 am,36 F ,34 F ,93%,WSW,9 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,7:50 am,37 F ,36 F ,93%,WSW,9 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,8:20 am,37 F ,36 F ,93%,WSW,7 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+10/11/2016,8:50 am,37 F ,36 F ,93%,W,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+10/11/2016,9:20 am,39 F ,37 F ,93%,W,7 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+10/11/2016,9:50 am,41 F ,37 F ,87%,WSW,7 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+10/11/2016,10:20 am,43 F ,39 F ,87%,W,7 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+10/11/2016,10:50 am,43 F ,37 F ,81%,W,8 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+10/11/2016,11:20 am,45 F ,39 F ,81%,W,7 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+10/11/2016,11:50 am,45 F ,37 F ,76%,W,9 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+10/11/2016,12:20 pm,46 F ,37 F ,71%,WNW,9 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+10/11/2016,12:50 pm,45 F ,37 F ,76%,WNW,9 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+10/11/2016,1:20 pm,45 F ,37 F ,76%,NW,7 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Mostly Cloudy
+10/11/2016,1:50 pm,46 F ,36 F ,66%,NNW,7 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Mostly Cloudy
+10/11/2016,2:20 pm,45 F ,36 F ,71%,NW,8 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+10/11/2016,2:50 pm,45 F ,36 F ,71%,NNW,8 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+10/11/2016,3:20 pm,45 F ,36 F ,71%,NNW,8 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+10/11/2016,3:50 pm,45 F ,36 F ,71%,NW,5 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,4:20 pm,43 F ,34 F ,70%,NNW,5 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,4:50 pm,41 F ,34 F ,76%,VAR,2 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,5:20 pm,36 F ,32 F ,87%,VAR,3 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,5:50 pm,34 F ,32 F ,93%,W,5 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,6:20 pm,37 F ,32 F ,81%,VAR,3 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,6:50 pm,37 F ,34 F ,87%,W,5 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,7:20 pm,37 F ,34 F ,87%,W,3 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy
+10/11/2016,7:50 pm,36 F ,32 F ,87%,W,5 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,8:20 pm,34 F ,30 F ,87%,VAR,1 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,8:50 pm,32 F ,30 F ,93%,VAR,1 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+10/11/2016,9:20 pm,36 F ,34 F ,93%,W,2 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+10/11/2016,9:50 pm,34 F ,32 F ,93%,VAR,2 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+10/11/2016,10:20 pm,34 F ,30 F ,87%,VAR,2 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+10/11/2016,10:50 pm,32 F ,30 F ,93%,W,2 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+10/11/2016,11:20 pm,30 F ,28 F ,93%,WSW,5 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+10/11/2016,11:50 pm,32 F ,30 F ,93%,W,5 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,12:20 am,28 F ,28 F ,100%,WSW,7 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,12:50 am,32 F ,30 F ,93%,W,6 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+11/11/2016,1:20 am,34 F ,30 F ,87%,VAR,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Cloudy
+11/11/2016,1:50 am,30 F ,28 F ,93%,W,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,2:20 am,28 F ,28 F ,100%,WSW,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,2:50 am,28 F ,28 F ,100%,SSW,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,3:20 am,27 F ,25 F ,93%,VAR,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,3:50 am,28 F ,28 F ,100%,WSW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,4:20 am,28 F ,27 F ,93%,VAR,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,4:50 am,28 F ,27 F ,93%,CALM,0 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,5:20 am,27 F ,25 F ,93%,S,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,5:50 am,27 F ,25 F ,93%,VAR,1 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,6:20 am,27 F ,27 F ,100%,WNW,1 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,6:50 am,27 F ,27 F ,100%,W,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,7:20 am,27 F ,27 F ,100%,NW,1 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,7:50 am,27 F ,27 F ,100%,VAR,1 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,8:20 am,27 F ,27 F ,100%,VAR,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,8:50 am,28 F ,28 F ,100%,VAR,1 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,9:20 am,32 F ,30 F ,93%,VAR,1 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,9:50 am,34 F ,32 F ,93%,ENE,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,10:20 am,36 F ,34 F ,93%,VAR,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,10:50 am,39 F ,36 F ,87%,VAR,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,11:20 am,41 F ,37 F ,87%,NNE,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,11:50 am,46 F ,37 F ,71%,VAR,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,12:20 pm,46 F ,39 F ,76%,SSW,15 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,12:50 pm,46 F ,39 F ,76%,SSW,14 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,1:20 pm,46 F ,37 F ,71%,S,14 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,1:50 pm,46 F ,37 F ,71%,SSW,13 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,2:20 pm,46 F ,39 F ,76%,SSW,12 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,2:50 pm,45 F ,37 F ,76%,SSW,9 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,3:20 pm,45 F ,37 F ,76%,SSW,9 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,3:50 pm,45 F ,37 F ,76%,SSW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,4:20 pm,45 F ,37 F ,76%,VAR,3 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,4:50 pm,45 F ,37 F ,76%,VAR,3 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,5:20 pm,45 F ,37 F ,76%,SE,5 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+11/11/2016,5:50 pm,46 F ,37 F ,71%,S,5 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+11/11/2016,6:20 pm,48 F ,39 F ,71%,VAR,5 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+11/11/2016,6:50 pm,48 F ,39 F ,71%,SSW,14 mph ,25 mph ,29.7 in ,0.0 in ,0.0 in ,Mostly Cloudy
+11/11/2016,7:20 pm,48 F ,39 F ,71%,S,8 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Mostly Cloudy
+11/11/2016,7:50 pm,48 F ,41 F ,76%,SSW,8 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Light Rain
+11/11/2016,8:20 pm,46 F ,41 F ,81%,SSW,9 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Light Rain
+11/11/2016,8:50 pm,48 F ,41 F ,76%,SSW,8 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Light Rain
+11/11/2016,9:20 pm,46 F ,43 F ,87%,VAR,5 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Light Rain
+11/11/2016,9:50 pm,46 F ,43 F ,87%,SSE,5 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Light Rain
+11/11/2016,10:20 pm,46 F ,43 F ,87%,E,7 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Light Rain
+11/11/2016,10:50 pm,48 F ,43 F ,82%,N,5 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Light Rain
+11/11/2016,11:20 pm,48 F ,43 F ,82%,SSW,12 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Light Rain
+11/11/2016,11:50 pm,48 F ,43 F ,82%,S,8 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Light Rain
+12/11/2016,12:20 am,48 F ,43 F ,82%,SSW,8 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Light Rain
+12/11/2016,12:50 am,48 F ,43 F ,82%,SSW,10 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Light Rain
+12/11/2016,1:20 am,48 F ,43 F ,82%,SSW,9 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Light Rain
+12/11/2016,1:50 am,48 F ,43 F ,82%,VAR,5 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Light Rain
+12/11/2016,2:20 am,48 F ,43 F ,82%,SW,7 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Light Rain
+12/11/2016,2:50 am,48 F ,45 F ,87%,SW,12 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Light Rain
+12/11/2016,3:20 am,48 F ,45 F ,87%,SSW,16 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Light Rain
+12/11/2016,3:50 am,48 F ,45 F ,87%,SSW,17 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Light Rain
+12/11/2016,4:20 am,50 F ,45 F ,82%,SSW,20 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Light Rain
+12/11/2016,4:50 am,50 F ,45 F ,82%,SSW,20 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,5:20 am,50 F ,45 F ,82%,SW,18 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,5:50 am,48 F ,45 F ,87%,SW,16 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Mostly Cloudy
+12/11/2016,6:20 am,48 F ,46 F ,93%,WSW,10 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Cloudy
+12/11/2016,6:50 am,50 F ,46 F ,87%,SW,14 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Mostly Cloudy
+12/11/2016,7:20 am,48 F ,46 F ,93%,SW,12 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Mostly Cloudy
+12/11/2016,7:50 am,48 F ,46 F ,93%,W,7 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,8:20 am,48 F ,46 F ,93%,WSW,10 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+12/11/2016,8:50 am,48 F ,46 F ,93%,VAR,3 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Mostly Cloudy
+12/11/2016,9:20 am,50 F ,48 F ,94%,WSW,10 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+12/11/2016,9:50 am,50 F ,46 F ,87%,WSW,8 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,10:20 am,52 F ,46 F ,82%,WSW,13 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,10:50 am,52 F ,46 F ,82%,WSW,12 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,11:20 am,52 F ,46 F ,82%,WSW,13 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,11:50 am,52 F ,46 F ,82%,WSW,12 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,12:20 pm,52 F ,46 F ,82%,WSW,13 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,12:50 pm,52 F ,46 F ,82%,W,14 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,1:20 pm,52 F ,46 F ,82%,W,10 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,1:50 pm,52 F ,46 F ,82%,WSW,9 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,2:20 pm,50 F ,45 F ,82%,W,8 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,2:50 pm,50 F ,45 F ,82%,W,9 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,3:20 pm,50 F ,43 F ,76%,W,8 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,3:50 pm,50 F ,43 F ,76%,WSW,8 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,4:20 pm,48 F ,43 F ,82%,W,6 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,4:50 pm,45 F ,41 F ,87%,WSW,6 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,5:20 pm,45 F ,41 F ,87%,WSW,7 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,5:50 pm,43 F ,39 F ,87%,WSW,6 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,6:20 pm,43 F ,39 F ,87%,WSW,6 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,6:50 pm,41 F ,39 F ,93%,SSW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,7:20 pm,43 F ,39 F ,87%,WSW,9 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,7:50 pm,43 F ,39 F ,87%,WSW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,8:20 pm,41 F ,39 F ,93%,SW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,8:50 pm,39 F ,37 F ,93%,SW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,9:20 pm,37 F ,36 F ,93%,SW,7 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,9:50 pm,41 F ,39 F ,93%,WSW,7 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,10:20 pm,37 F ,36 F ,93%,VAR,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,10:50 pm,37 F ,37 F ,100%,WSW,7 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,11:20 pm,37 F ,36 F ,93%,WSW,6 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+12/11/2016,11:50 pm,36 F ,34 F ,93%,WSW,6 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+13/11/2016,12:20 am,37 F ,36 F ,93%,WSW,7 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+13/11/2016,12:50 am,36 F ,36 F ,100%,WSW,5 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+13/11/2016,1:20 am,36 F ,36 F ,100%,W,5 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+13/11/2016,1:50 am,36 F ,34 F ,93%,WSW,6 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+13/11/2016,2:20 am,36 F ,34 F ,93%,WSW,5 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+13/11/2016,2:50 am,36 F ,34 F ,93%,WSW,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+13/11/2016,3:20 am,36 F ,34 F ,93%,WSW,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+13/11/2016,3:50 am,36 F ,34 F ,93%,W,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+13/11/2016,4:20 am,36 F ,34 F ,93%,SSW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+13/11/2016,4:50 am,36 F ,34 F ,93%,VAR,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+13/11/2016,5:20 am,36 F ,34 F ,93%,W,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+13/11/2016,5:50 am,36 F ,36 F ,100%,VAR,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+13/11/2016,6:20 am,37 F ,36 F ,93%,W,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+13/11/2016,6:50 am,37 F ,36 F ,93%,W,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+13/11/2016,7:20 am,39 F ,37 F ,93%,VAR,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+13/11/2016,7:50 am,39 F ,37 F ,93%,VAR,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Partly Cloudy
+13/11/2016,8:20 am,41 F ,39 F ,93%,VAR,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+13/11/2016,8:50 am,41 F ,39 F ,93%,NW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+13/11/2016,9:20 am,41 F ,39 F ,93%,W,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Partly Cloudy
+13/11/2016,9:50 am,45 F ,41 F ,87%,E,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+13/11/2016,10:20 am,45 F ,43 F ,93%,WSW,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Rain
+13/11/2016,10:50 am,46 F ,43 F ,87%,WSW,9 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Rain
+13/11/2016,11:20 am,48 F ,45 F ,87%,WSW,10 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+13/11/2016,11:50 am,48 F ,45 F ,87%,SW,10 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+13/11/2016,12:20 pm,48 F ,45 F ,87%,WSW,10 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+13/11/2016,12:50 pm,48 F ,45 F ,87%,SW,10 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Cloudy
+13/11/2016,1:20 pm,50 F ,46 F ,87%,SW,13 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+13/11/2016,1:50 pm,50 F ,46 F ,87%,SW,14 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Rain
+13/11/2016,2:20 pm,50 F ,46 F ,87%,SW,14 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Rain
+13/11/2016,2:50 pm,48 F ,46 F ,93%,SW,14 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Rain
+13/11/2016,3:20 pm,50 F ,46 F ,87%,SW,14 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Rain
+13/11/2016,3:50 pm,50 F ,48 F ,94%,SW,13 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Rain
+13/11/2016,4:20 pm,50 F ,48 F ,94%,SW,15 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Rain
+13/11/2016,4:50 pm,50 F ,48 F ,94%,WSW,12 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Rain
+13/11/2016,5:20 pm,50 F ,48 F ,94%,WSW,14 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Rain
+13/11/2016,5:50 pm,50 F ,48 F ,94%,WSW,14 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Rain
+13/11/2016,6:20 pm,50 F ,48 F ,94%,WSW,13 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Rain
+13/11/2016,6:50 pm,50 F ,46 F ,87%,SW,14 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+13/11/2016,7:20 pm,50 F ,46 F ,87%,SW,12 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+13/11/2016,7:50 pm,50 F ,46 F ,87%,WSW,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Partly Cloudy
+13/11/2016,8:20 pm,50 F ,46 F ,87%,WSW,12 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Partly Cloudy
+13/11/2016,8:50 pm,50 F ,46 F ,87%,WSW,13 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Partly Cloudy
+13/11/2016,9:20 pm,50 F ,46 F ,87%,WSW,13 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+13/11/2016,9:50 pm,50 F ,46 F ,87%,WSW,13 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+13/11/2016,10:20 pm,50 F ,46 F ,87%,WSW,12 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Cloudy
+13/11/2016,10:50 pm,52 F ,48 F ,88%,SW,13 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Light Rain
+13/11/2016,11:20 pm,50 F ,48 F ,94%,WSW,12 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Light Rain
+13/11/2016,11:50 pm,52 F ,48 F ,88%,WSW,12 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Light Rain
+14/11/2016,5:20 am,54 F ,50 F ,88%,WSW,13 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,5:50 am,54 F ,50 F ,88%,WSW,20 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+14/11/2016,6:20 am,54 F ,52 F ,94%,WSW,18 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,6:50 am,55 F ,52 F ,88%,WSW,17 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,7:20 am,55 F ,54 F ,94%,WSW,15 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,7:50 am,55 F ,54 F ,94%,WSW,13 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,8:20 am,55 F ,54 F ,94%,WSW,15 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Light Rain
+14/11/2016,8:50 am,55 F ,54 F ,94%,WSW,14 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Cloudy
+14/11/2016,9:20 am,55 F ,54 F ,94%,WSW,14 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,9:50 am,57 F ,54 F ,88%,WSW,15 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,10:20 am,57 F ,54 F ,88%,WSW,15 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Cloudy
+14/11/2016,10:50 am,57 F ,54 F ,88%,WSW,16 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,11:20 am,57 F ,54 F ,88%,WSW,17 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,11:50 am,57 F ,54 F ,88%,W,14 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,12:20 pm,57 F ,54 F ,88%,W,15 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,12:50 pm,57 F ,54 F ,88%,WSW,13 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,1:20 pm,57 F ,54 F ,88%,W,12 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,1:50 pm,57 F ,54 F ,88%,W,13 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,2:20 pm,57 F ,54 F ,88%,W,12 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,2:50 pm,57 F ,54 F ,88%,WSW,12 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,3:20 pm,57 F ,54 F ,88%,WSW,9 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,3:50 pm,57 F ,54 F ,88%,WSW,13 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,4:20 pm,57 F ,54 F ,88%,WSW,12 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,4:50 pm,57 F ,54 F ,88%,WSW,9 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,5:20 pm,57 F ,54 F ,88%,WSW,10 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,5:50 pm,57 F ,54 F ,88%,WSW,16 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,6:20 pm,57 F ,55 F ,94%,WSW,14 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,6:50 pm,57 F ,55 F ,94%,WSW,13 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,7:20 pm,57 F ,55 F ,94%,WSW,18 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Light Rain
+14/11/2016,7:50 pm,57 F ,55 F ,94%,WSW,17 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,8:20 pm,57 F ,55 F ,94%,WSW,15 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,8:50 pm,57 F ,55 F ,94%,WSW,15 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,9:20 pm,59 F ,55 F ,88%,WSW,13 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,9:50 pm,57 F ,54 F ,88%,WSW,14 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,10:20 pm,57 F ,54 F ,88%,WSW,18 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,10:50 pm,57 F ,54 F ,88%,WSW,18 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,11:20 pm,57 F ,54 F ,88%,WSW,17 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+14/11/2016,11:50 pm,57 F ,54 F ,88%,WSW,18 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,12:20 am,57 F ,54 F ,88%,WSW,21 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair / Windy
+15/11/2016,12:50 am,57 F ,54 F ,88%,WSW,21 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Cloudy / Windy
+15/11/2016,1:20 am,57 F ,54 F ,88%,WSW,18 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,1:50 am,57 F ,54 F ,88%,WSW,15 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,2:20 am,57 F ,54 F ,88%,WSW,17 mph ,29 mph ,29.9 in ,0.0 in ,0.0 in ,Light Rain
+15/11/2016,2:50 am,57 F ,54 F ,88%,WSW,18 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Light Rain
+15/11/2016,3:20 am,57 F ,52 F ,82%,WSW,14 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,3:50 am,55 F ,50 F ,82%,W,16 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,4:20 am,54 F ,46 F ,77%,WSW,15 mph ,28 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+15/11/2016,4:50 am,52 F ,45 F ,76%,WSW,12 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+15/11/2016,5:20 am,50 F ,45 F ,82%,W,10 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+15/11/2016,5:50 am,50 F ,43 F ,76%,W,9 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+15/11/2016,6:20 am,48 F ,43 F ,82%,W,10 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+15/11/2016,6:50 am,48 F ,43 F ,82%,WSW,7 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+15/11/2016,7:20 am,48 F ,43 F ,82%,W,7 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+15/11/2016,7:50 am,46 F ,41 F ,81%,SW,7 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+15/11/2016,8:20 am,48 F ,41 F ,76%,W,8 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+15/11/2016,8:50 am,48 F ,43 F ,82%,W,10 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+15/11/2016,9:20 am,48 F ,43 F ,82%,SW,6 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Partly Cloudy
+15/11/2016,9:50 am,48 F ,43 F ,82%,WSW,7 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+15/11/2016,10:20 am,50 F ,45 F ,82%,SW,12 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+15/11/2016,10:50 am,52 F ,45 F ,76%,WSW,14 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Partly Cloudy
+15/11/2016,11:20 am,52 F ,45 F ,76%,SW,13 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+15/11/2016,11:50 am,52 F ,43 F ,71%,SW,15 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+15/11/2016,12:20 pm,52 F ,43 F ,71%,WSW,15 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+15/11/2016,12:50 pm,54 F ,45 F ,72%,WSW,13 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Partly Cloudy
+15/11/2016,1:20 pm,52 F ,43 F ,71%,W,16 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,1:50 pm,52 F ,43 F ,71%,WSW,13 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,2:20 pm,52 F ,43 F ,71%,WSW,12 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Partly Cloudy
+15/11/2016,2:50 pm,52 F ,43 F ,71%,WSW,14 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,3:20 pm,52 F ,43 F ,71%,WSW,12 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,3:50 pm,50 F ,45 F ,82%,SW,12 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,4:20 pm,50 F ,43 F ,76%,SW,16 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,4:50 pm,50 F ,43 F ,76%,WSW,16 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,5:20 pm,50 F ,43 F ,76%,WSW,17 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,5:50 pm,48 F ,43 F ,82%,SW,13 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,6:20 pm,48 F ,43 F ,82%,SW,12 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,6:50 pm,48 F ,43 F ,82%,SW,14 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+15/11/2016,7:20 pm,48 F ,43 F ,82%,SW,18 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+15/11/2016,7:50 pm,48 F ,43 F ,82%,SW,17 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+15/11/2016,8:20 pm,48 F ,43 F ,82%,SW,16 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+15/11/2016,8:50 pm,48 F ,43 F ,82%,SW,18 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+15/11/2016,9:20 pm,48 F ,43 F ,82%,SW,17 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,9:50 pm,50 F ,43 F ,76%,SW,15 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,10:20 pm,48 F ,45 F ,87%,SW,20 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,10:50 pm,48 F ,45 F ,87%,SW,14 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,11:20 pm,50 F ,43 F ,76%,SW,17 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Mostly Cloudy
+15/11/2016,11:50 pm,50 F ,43 F ,76%,SW,18 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy
+16/11/2016,12:20 am,50 F ,43 F ,76%,SW,18 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+16/11/2016,12:50 am,48 F ,43 F ,82%,SW,22 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair / Windy
+16/11/2016,1:20 am,50 F ,43 F ,76%,WSW,20 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+16/11/2016,1:50 am,50 F ,43 F ,76%,WSW,21 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Cloudy / Windy
+16/11/2016,2:20 am,48 F ,43 F ,82%,SW,23 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy / Windy
+16/11/2016,2:50 am,48 F ,43 F ,82%,WSW,23 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Mostly Cloudy / Windy
+16/11/2016,3:20 am,48 F ,43 F ,82%,SW,23 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Light Rain / Windy
+16/11/2016,3:50 am,48 F ,43 F ,82%,SW,22 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Light Rain / Windy
+16/11/2016,4:20 am,48 F ,45 F ,87%,SW,22 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Light Rain / Windy
+16/11/2016,4:50 am,48 F ,45 F ,87%,SW,23 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain / Windy
+16/11/2016,5:20 am,48 F ,45 F ,87%,SW,22 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain / Windy
+16/11/2016,5:50 am,50 F ,46 F ,87%,WSW,20 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+16/11/2016,6:20 am,48 F ,45 F ,87%,WSW,14 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+16/11/2016,6:50 am,48 F ,43 F ,82%,WSW,15 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Showers in the Vicinity
+16/11/2016,7:20 am,48 F ,43 F ,82%,WSW,16 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Showers in the Vicinity
+16/11/2016,7:50 am,46 F ,41 F ,81%,WSW,17 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Light Rain
+16/11/2016,8:20 am,45 F ,39 F ,81%,WSW,14 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+16/11/2016,8:50 am,45 F ,39 F ,81%,WSW,13 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+16/11/2016,9:20 am,45 F ,41 F ,87%,WSW,15 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+16/11/2016,9:50 am,45 F ,39 F ,81%,W,14 mph ,26 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+16/11/2016,10:20 am,46 F ,37 F ,71%,W,18 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+16/11/2016,10:50 am,46 F ,37 F ,71%,WSW,16 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+16/11/2016,11:20 am,46 F ,39 F ,76%,WSW,17 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+16/11/2016,11:50 am,46 F ,39 F ,76%,WSW,21 mph ,36 mph ,29.5 in ,0.0 in ,0.0 in ,Showers in the Vicinity
+16/11/2016,12:20 pm,46 F ,39 F ,76%,W,15 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Showers in the Vicinity
+16/11/2016,12:50 pm,46 F ,36 F ,66%,WSW,22 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Showers in the Vicinity
+16/11/2016,1:20 pm,45 F ,36 F ,71%,W,15 mph ,28 mph ,29.5 in ,0.0 in ,0.0 in ,Mostly Cloudy
+16/11/2016,1:50 pm,46 F ,37 F ,71%,W,13 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Rain
+16/11/2016,2:20 pm,43 F ,39 F ,87%,WSW,13 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+16/11/2016,2:50 pm,43 F ,36 F ,76%,W,17 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Light Rain Shower
+16/11/2016,3:20 pm,43 F ,36 F ,76%,W,18 mph ,32 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+16/11/2016,3:50 pm,43 F ,37 F ,81%,WSW,14 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+16/11/2016,4:20 pm,41 F ,36 F ,81%,WSW,15 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+16/11/2016,4:50 pm,41 F ,36 F ,81%,WSW,17 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Fair
+16/11/2016,5:20 pm,41 F ,37 F ,87%,WSW,12 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Light Rain
+16/11/2016,5:50 pm,37 F ,36 F ,93%,WSW,8 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+16/11/2016,6:20 pm,41 F ,37 F ,87%,SW,13 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+16/11/2016,6:50 pm,41 F ,37 F ,87%,SW,16 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+16/11/2016,7:20 pm,41 F ,36 F ,81%,WSW,18 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fair
+16/11/2016,7:50 pm,41 F ,36 F ,81%,SW,14 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+16/11/2016,8:20 pm,41 F ,37 F ,87%,WSW,10 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+16/11/2016,8:50 pm,41 F ,37 F ,87%,SW,15 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+16/11/2016,9:20 pm,39 F ,37 F ,93%,SW,18 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+16/11/2016,9:50 pm,39 F ,36 F ,87%,SW,17 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+16/11/2016,10:20 pm,39 F ,36 F ,87%,SW,13 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+16/11/2016,10:50 pm,39 F ,37 F ,93%,SW,10 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+16/11/2016,11:20 pm,39 F ,37 F ,93%,WSW,12 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+16/11/2016,11:50 pm,39 F ,37 F ,93%,SW,12 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+17/11/2016,12:20 am,41 F ,37 F ,87%,SW,12 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+17/11/2016,12:50 am,41 F ,37 F ,87%,SW,17 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Partly Cloudy
+17/11/2016,1:20 am,41 F ,37 F ,87%,SW,14 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Fair
+17/11/2016,1:50 am,41 F ,36 F ,81%,SW,16 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+17/11/2016,2:20 am,39 F ,36 F ,87%,SW,12 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Fair
+17/11/2016,2:50 am,39 F ,36 F ,87%,SW,18 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Fair
+17/11/2016,3:20 am,39 F ,36 F ,87%,SW,15 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Light Rain
+17/11/2016,3:50 am,39 F ,37 F ,93%,WSW,9 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Light Rain
+17/11/2016,4:20 am,41 F ,37 F ,87%,SW,16 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Light Rain
+17/11/2016,4:50 am,41 F ,37 F ,87%,SW,13 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Light Rain
+17/11/2016,5:20 am,41 F ,37 F ,87%,SSW,16 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Light Rain
+17/11/2016,5:50 am,39 F ,36 F ,87%,W,10 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Light Rain
+17/11/2016,6:20 am,37 F ,36 F ,93%,WNW,9 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Light Rain
+17/11/2016,6:50 am,37 F ,36 F ,93%,WNW,6 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Light Rain
+17/11/2016,7:20 am,36 F ,34 F ,93%,W,9 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Rain
+17/11/2016,7:50 am,37 F ,36 F ,93%,WSW,10 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Rain
+17/11/2016,8:20 am,37 F ,36 F ,93%,WSW,5 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Light Rain
+17/11/2016,8:50 am,37 F ,36 F ,93%,W,3 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Light Rain
+17/11/2016,9:20 am,39 F ,37 F ,93%,WSW,5 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Light Rain
+17/11/2016,9:50 am,41 F ,37 F ,87%,SW,15 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Light Rain
+17/11/2016,10:20 am,39 F ,37 F ,93%,SW,13 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+17/11/2016,10:50 am,41 F ,37 F ,87%,WSW,12 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Mostly Cloudy
+17/11/2016,11:20 am,41 F ,37 F ,87%,SW,13 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Light Drizzle
+17/11/2016,11:50 am,41 F ,37 F ,87%,WSW,13 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Showers in the Vicinity
+17/11/2016,12:20 pm,39 F ,36 F ,87%,WSW,13 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+17/11/2016,12:50 pm,39 F ,36 F ,87%,WSW,14 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Fair
+17/11/2016,1:20 pm,39 F ,36 F ,87%,WSW,10 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Fair
+17/11/2016,1:50 pm,39 F ,36 F ,87%,W,9 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Fair
+17/11/2016,2:20 pm,39 F ,36 F ,87%,WSW,8 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Fair
+17/11/2016,2:50 pm,39 F ,36 F ,87%,WSW,7 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+17/11/2016,3:20 pm,39 F ,36 F ,87%,W,5 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+17/11/2016,3:50 pm,39 F ,36 F ,87%,WSW,8 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Light Rain
+17/11/2016,4:20 pm,39 F ,36 F ,87%,W,6 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Light Rain
+17/11/2016,4:50 pm,39 F ,36 F ,87%,W,5 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+17/11/2016,5:20 pm,37 F ,36 F ,93%,SW,6 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+17/11/2016,5:50 pm,37 F ,34 F ,87%,SSW,8 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Fair
+17/11/2016,6:20 pm,37 F ,34 F ,87%,SW,8 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+17/11/2016,6:50 pm,36 F ,34 F ,93%,WSW,9 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+17/11/2016,7:20 pm,36 F ,34 F ,93%,WSW,7 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+17/11/2016,7:50 pm,36 F ,34 F ,93%,WSW,8 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+17/11/2016,8:20 pm,36 F ,32 F ,87%,SW,8 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Fair
+17/11/2016,8:50 pm,36 F ,32 F ,87%,WSW,8 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Fair
+17/11/2016,9:20 pm,34 F ,32 F ,93%,VAR,2 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Fair
+17/11/2016,9:50 pm,34 F ,32 F ,93%,WSW,3 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+17/11/2016,10:20 pm,34 F ,32 F ,93%,WSW,6 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+17/11/2016,10:50 pm,36 F ,34 F ,93%,WSW,8 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+17/11/2016,11:20 pm,34 F ,32 F ,93%,WSW,7 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Fair
+17/11/2016,11:50 pm,34 F ,34 F ,100%,W,6 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,12:20 am,34 F ,32 F ,93%,W,6 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+18/11/2016,12:50 am,34 F ,32 F ,93%,W,6 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,1:20 am,34 F ,32 F ,93%,W,5 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,1:50 am,32 F ,32 F ,100%,WSW,6 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,2:20 am,34 F ,32 F ,93%,WSW,7 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+18/11/2016,2:50 am,34 F ,34 F ,100%,VAR,2 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+18/11/2016,3:20 am,34 F ,32 F ,93%,W,2 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Cloudy
+18/11/2016,3:50 am,34 F ,32 F ,93%,WSW,9 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Cloudy
+18/11/2016,4:20 am,34 F ,32 F ,93%,WSW,6 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Cloudy
+18/11/2016,4:50 am,34 F ,34 F ,100%,WSW,6 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Cloudy
+18/11/2016,5:20 am,34 F ,34 F ,100%,WSW,3 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+18/11/2016,5:50 am,34 F ,32 F ,93%,SW,5 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+18/11/2016,6:20 am,34 F ,32 F ,93%,WSW,6 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+18/11/2016,6:50 am,32 F ,32 F ,100%,WSW,8 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,7:20 am,32 F ,30 F ,93%,WSW,7 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,7:50 am,32 F ,30 F ,93%,WSW,5 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,8:20 am,32 F ,30 F ,93%,WSW,7 mph ,0 mph ,28.9 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,8:50 am,34 F ,32 F ,93%,WSW,8 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,9:20 am,34 F ,32 F ,93%,WSW,7 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,9:50 am,34 F ,32 F ,93%,WSW,8 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,10:20 am,36 F ,34 F ,93%,WSW,8 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,10:50 am,37 F ,34 F ,87%,WSW,9 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,11:20 am,39 F ,36 F ,87%,WSW,10 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,11:50 am,39 F ,36 F ,87%,WSW,10 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,12:20 pm,41 F ,36 F ,81%,WSW,10 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,12:50 pm,41 F ,36 F ,81%,WSW,12 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,1:20 pm,41 F ,36 F ,81%,W,8 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,1:50 pm,41 F ,36 F ,81%,W,7 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,2:20 pm,41 F ,36 F ,81%,SW,9 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,2:50 pm,39 F ,36 F ,87%,SW,9 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Partly Cloudy
+18/11/2016,3:20 pm,37 F ,34 F ,87%,SW,12 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Partly Cloudy
+18/11/2016,3:50 pm,37 F ,34 F ,87%,WSW,8 mph ,0 mph ,29.0 in ,0.0 in ,0.0 in ,Light Rain
+18/11/2016,4:20 pm,36 F ,32 F ,87%,WSW,6 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Showers in the Vicinity
+18/11/2016,4:50 pm,34 F ,32 F ,93%,WSW,6 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Partly Cloudy
+18/11/2016,5:20 pm,36 F ,34 F ,93%,WSW,5 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Partly Cloudy
+18/11/2016,5:50 pm,36 F ,34 F ,93%,WSW,5 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Partly Cloudy
+18/11/2016,6:20 pm,36 F ,32 F ,87%,WSW,8 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Partly Cloudy
+18/11/2016,6:50 pm,34 F ,32 F ,93%,WSW,7 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,7:20 pm,34 F ,32 F ,93%,WSW,5 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,7:50 pm,34 F ,32 F ,93%,WSW,3 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,8:20 pm,32 F ,30 F ,93%,WSW,6 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,8:50 pm,32 F ,32 F ,100%,WSW,3 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Partly Cloudy
+18/11/2016,9:20 pm,34 F ,32 F ,93%,WSW,5 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+18/11/2016,9:50 pm,32 F ,30 F ,93%,WSW,3 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+18/11/2016,10:20 pm,34 F ,32 F ,93%,W,3 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,10:50 pm,32 F ,30 F ,93%,VAR,3 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Fair
+18/11/2016,11:20 pm,32 F ,30 F ,93%,W,3 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+18/11/2016,11:50 pm,32 F ,32 F ,100%,WSW,6 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+19/11/2016,12:20 am,32 F ,30 F ,93%,WSW,8 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+19/11/2016,12:50 am,32 F ,30 F ,93%,WSW,9 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+19/11/2016,1:20 am,34 F ,32 F ,93%,WSW,8 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+19/11/2016,1:50 am,32 F ,30 F ,93%,W,6 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+19/11/2016,2:20 am,32 F ,30 F ,93%,WSW,3 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,2:50 am,30 F ,30 F ,100%,WSW,6 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+19/11/2016,3:20 am,32 F ,32 F ,100%,WSW,8 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+19/11/2016,3:50 am,34 F ,32 F ,93%,WSW,8 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+19/11/2016,4:20 am,32 F ,30 F ,93%,WSW,7 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,4:50 am,30 F ,28 F ,93%,WSW,7 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,5:20 am,30 F ,30 F ,100%,WSW,7 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,5:50 am,32 F ,30 F ,93%,W,5 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,6:20 am,32 F ,30 F ,93%,W,3 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,6:50 am,32 F ,30 F ,93%,WSW,6 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,7:20 am,36 F ,32 F ,87%,SW,8 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+19/11/2016,7:50 am,34 F ,32 F ,93%,WSW,8 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,8:20 am,36 F ,32 F ,87%,W,5 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,8:50 am,36 F ,32 F ,87%,WSW,6 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+19/11/2016,9:20 am,34 F ,32 F ,93%,WSW,3 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,9:50 am,36 F ,32 F ,87%,VAR,2 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,10:20 am,37 F ,34 F ,87%,W,3 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Light Rain Shower
+19/11/2016,10:50 am,36 F ,34 F ,93%,WSW,6 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Light Rain
+19/11/2016,11:20 am,39 F ,36 F ,87%,SW,12 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,11:50 am,39 F ,36 F ,87%,WSW,8 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+19/11/2016,12:20 pm,41 F ,36 F ,81%,SW,10 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+19/11/2016,12:50 pm,41 F ,36 F ,81%,WSW,8 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+19/11/2016,1:20 pm,41 F ,37 F ,87%,SW,8 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+19/11/2016,1:50 pm,43 F ,36 F ,76%,SW,12 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+19/11/2016,2:20 pm,41 F ,36 F ,81%,SW,12 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+19/11/2016,2:50 pm,39 F ,36 F ,87%,SW,10 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+19/11/2016,3:20 pm,39 F ,34 F ,81%,SW,10 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+19/11/2016,3:50 pm,37 F ,34 F ,87%,SW,8 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Showers in the Vicinity
+19/11/2016,4:20 pm,36 F ,32 F ,87%,SW,8 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,4:50 pm,34 F ,32 F ,93%,SW,6 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+19/11/2016,5:20 pm,34 F ,32 F ,93%,SW,5 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,5:50 pm,34 F ,32 F ,93%,WSW,3 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,6:20 pm,32 F ,30 F ,93%,WSW,6 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,6:50 pm,30 F ,28 F ,93%,W,3 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,7:20 pm,28 F ,28 F ,100%,SW,5 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,7:50 pm,30 F ,28 F ,93%,WSW,5 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,8:20 pm,28 F ,27 F ,93%,WSW,5 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,8:50 pm,30 F ,30 F ,100%,CALM,0 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,9:20 pm,28 F ,27 F ,93%,WNW,1 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Fair
+19/11/2016,9:50 pm,28 F ,27 F ,93%,VAR,1 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Shallow Fog
+19/11/2016,10:20 pm,28 F ,27 F ,93%,S,1 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Shallow Fog
+19/11/2016,10:50 pm,28 F ,28 F ,100%,NW,1 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Shallow Fog
+19/11/2016,11:20 pm,27 F ,27 F ,100%,SSW,1 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Shallow Fog
+19/11/2016,11:50 pm,25 F ,25 F ,100%,VAR,2 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Fair
+20/11/2016,12:20 am,27 F ,25 F ,93%,NNE,2 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Shallow Fog
+20/11/2016,12:50 am,25 F ,25 F ,100%,VAR,2 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Fair
+20/11/2016,1:20 am,25 F ,25 F ,100%,VAR,2 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,1:50 am,27 F ,27 F ,100%,S,1 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,2:20 am,28 F ,27 F ,93%,VAR,1 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,2:50 am,28 F ,28 F ,100%,S,1 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Cloudy
+20/11/2016,3:20 am,30 F ,28 F ,93%,NW,2 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Cloudy
+20/11/2016,3:50 am,28 F ,28 F ,100%,SSE,5 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Cloudy
+20/11/2016,4:20 am,28 F ,28 F ,100%,VAR,2 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,4:50 am,28 F ,28 F ,100%,SSE,2 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Cloudy
+20/11/2016,5:20 am,30 F ,28 F ,93%,VAR,2 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Cloudy
+20/11/2016,5:50 am,30 F ,30 F ,100%,VAR,1 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Cloudy
+20/11/2016,6:20 am,30 F ,30 F ,100%,VAR,2 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Cloudy
+20/11/2016,6:50 am,30 F ,30 F ,100%,VAR,2 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,7:20 am,30 F ,30 F ,100%,VAR,2 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,7:50 am,32 F ,30 F ,93%,SE,2 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,8:20 am,30 F ,30 F ,100%,CALM,0 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,8:50 am,32 F ,30 F ,93%,SW,2 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,9:20 am,32 F ,30 F ,93%,WSW,3 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,9:50 am,32 F ,32 F ,100%,W,5 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,10:20 am,34 F ,32 F ,93%,W,5 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,10:50 am,34 F ,32 F ,93%,WSW,2 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,11:20 am,34 F ,32 F ,93%,W,5 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,11:50 am,34 F ,32 F ,93%,VAR,2 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,12:20 pm,34 F ,32 F ,93%,W,5 mph ,0 mph ,29.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,12:50 pm,34 F ,32 F ,93%,WSW,5 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,1:20 pm,34 F ,32 F ,93%,WSW,6 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,1:50 pm,36 F ,32 F ,87%,WSW,6 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,2:20 pm,34 F ,32 F ,93%,W,5 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,2:50 pm,34 F ,32 F ,93%,WSW,6 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,3:20 pm,34 F ,30 F ,87%,W,5 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,3:50 pm,34 F ,32 F ,93%,WSW,6 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Cloudy
+20/11/2016,4:20 pm,34 F ,30 F ,87%,W,5 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,4:50 pm,34 F ,30 F ,87%,W,6 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,5:20 pm,34 F ,30 F ,87%,W,3 mph ,0 mph ,29.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,5:50 pm,34 F ,30 F ,87%,WSW,3 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,6:20 pm,34 F ,30 F ,87%,W,3 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,6:50 pm,34 F ,30 F ,87%,W,3 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,7:20 pm,32 F ,30 F ,93%,W,3 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,7:50 pm,34 F ,30 F ,87%,VAR,3 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Cloudy
+20/11/2016,8:20 pm,32 F ,30 F ,93%,WSW,6 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,8:50 pm,32 F ,30 F ,93%,WSW,7 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,9:20 pm,32 F ,30 F ,93%,WSW,6 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,9:50 pm,32 F ,30 F ,93%,W,5 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+20/11/2016,10:20 pm,32 F ,30 F ,93%,SW,6 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Cloudy
+20/11/2016,10:50 pm,32 F ,30 F ,93%,WSW,2 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Cloudy
+20/11/2016,11:20 pm,32 F ,30 F ,93%,W,5 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Cloudy
+20/11/2016,11:50 pm,32 F ,30 F ,93%,WSW,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Haze
+21/11/2016,12:20 am,30 F ,30 F ,100%,SW,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mist
+21/11/2016,12:50 am,30 F ,30 F ,100%,SW,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mist
+21/11/2016,1:20 am,30 F ,30 F ,100%,WSW,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mist
+21/11/2016,1:50 am,30 F ,30 F ,100%,WSW,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mist
+21/11/2016,2:20 am,30 F ,30 F ,100%,SW,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mist
+21/11/2016,2:50 am,30 F ,30 F ,100%,SW,7 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fog
+21/11/2016,3:20 am,30 F ,30 F ,100%,SSW,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fog
+21/11/2016,3:50 am,30 F ,28 F ,93%,SW,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fog
+21/11/2016,4:20 am,28 F ,28 F ,100%,VAR,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fog
+21/11/2016,4:50 am,28 F ,28 F ,100%,VAR,2 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fog
+21/11/2016,5:20 am,28 F ,28 F ,100%,VAR,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fog
+21/11/2016,5:50 am,28 F ,28 F ,100%,SW,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fog
+21/11/2016,6:20 am,30 F ,28 F ,93%,SSW,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fog
+21/11/2016,6:50 am,30 F ,28 F ,93%,VAR,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fog
+21/11/2016,7:20 am,30 F ,28 F ,93%,SW,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fog
+21/11/2016,7:50 am,30 F ,28 F ,93%,VAR,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fog
+21/11/2016,8:20 am,30 F ,28 F ,93%,VAR,2 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fog
+21/11/2016,8:50 am,30 F ,28 F ,93%,VAR,2 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fog
+21/11/2016,9:20 am,30 F ,28 F ,93%,SW,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mist
+21/11/2016,9:50 am,30 F ,28 F ,93%,S,5 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Mist
+21/11/2016,10:20 am,30 F ,28 F ,93%,S,3 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Mist
+21/11/2016,10:50 am,30 F ,30 F ,100%,VAR,3 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Mist
+21/11/2016,11:20 am,30 F ,28 F ,93%,VAR,2 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Mist
+21/11/2016,11:50 am,30 F ,28 F ,93%,VAR,3 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Mist
+21/11/2016,12:20 pm,30 F ,30 F ,100%,WSW,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mist
+21/11/2016,12:50 pm,30 F ,30 F ,100%,SW,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mist
+21/11/2016,1:20 pm,30 F ,30 F ,100%,WSW,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mist
+21/11/2016,1:50 pm,30 F ,30 F ,100%,WSW,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mist
+21/11/2016,2:20 pm,30 F ,30 F ,100%,WSW,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mist
+21/11/2016,2:50 pm,30 F ,30 F ,100%,WSW,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fair
+21/11/2016,3:20 pm,32 F ,30 F ,93%,WSW,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+21/11/2016,3:50 pm,32 F ,32 F ,100%,VAR,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+21/11/2016,4:20 pm,32 F ,32 F ,100%,VAR,2 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+21/11/2016,4:50 pm,37 F ,32 F ,81%,NNE,12 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+21/11/2016,5:20 pm,39 F ,32 F ,75%,NNE,14 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+21/11/2016,5:50 pm,39 F ,32 F ,75%,NNE,15 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Fair
+21/11/2016,6:20 pm,39 F ,30 F ,70%,NNE,15 mph ,26 mph ,29.4 in ,0.0 in ,0.0 in ,Fair
+21/11/2016,6:50 pm,41 F ,34 F ,76%,NNE,16 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+21/11/2016,7:20 pm,41 F ,34 F ,76%,NNE,18 mph ,30 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+21/11/2016,7:50 pm,41 F ,34 F ,76%,NNE,16 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+21/11/2016,8:20 pm,41 F ,34 F ,76%,NNE,14 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+21/11/2016,8:50 pm,41 F ,34 F ,76%,NNE,16 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+21/11/2016,9:20 pm,41 F ,36 F ,81%,NNE,14 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+21/11/2016,9:50 pm,41 F ,36 F ,81%,NNE,16 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Light Rain
+21/11/2016,10:20 pm,43 F ,34 F ,70%,NNE,17 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Light Rain
+21/11/2016,10:50 pm,43 F ,36 F ,76%,NNE,17 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Light Rain
+21/11/2016,11:20 pm,41 F ,36 F ,81%,NNE,18 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Light Rain
+21/11/2016,11:50 pm,41 F ,36 F ,81%,NE,16 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,12:20 am,41 F ,36 F ,81%,NE,16 mph ,28 mph ,29.3 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,12:50 am,41 F ,36 F ,81%,NE,15 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,1:20 am,41 F ,36 F ,81%,NNE,14 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,1:50 am,41 F ,36 F ,81%,NNE,17 mph ,29 mph ,29.3 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,2:20 am,41 F ,36 F ,81%,NE,15 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,2:50 am,41 F ,36 F ,81%,NE,14 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,3:20 am,41 F ,36 F ,81%,NE,14 mph ,25 mph ,29.3 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,3:50 am,41 F ,36 F ,81%,NNE,15 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,4:20 am,39 F ,36 F ,87%,NNE,16 mph ,0 mph ,29.3 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,4:50 am,39 F ,36 F ,87%,NNE,12 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,5:20 am,39 F ,36 F ,87%,NNE,13 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,5:50 am,39 F ,36 F ,87%,NNE,13 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,6:20 am,39 F ,36 F ,87%,NNE,15 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,6:50 am,39 F ,36 F ,87%,NNE,14 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,7:20 am,39 F ,36 F ,87%,NNE,10 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,7:50 am,41 F ,36 F ,81%,NNE,12 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,8:20 am,41 F ,36 F ,81%,N,9 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,8:50 am,41 F ,36 F ,81%,NNE,12 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,9:20 am,41 F ,36 F ,81%,N,7 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,9:50 am,41 F ,36 F ,81%,N,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,10:20 am,41 F ,37 F ,87%,VAR,3 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,10:50 am,43 F ,37 F ,81%,NW,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,11:20 am,43 F ,36 F ,76%,NNW,7 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Light Rain
+22/11/2016,11:50 am,43 F ,36 F ,76%,NNW,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+22/11/2016,12:20 pm,43 F ,37 F ,81%,NNW,5 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+22/11/2016,12:50 pm,43 F ,36 F ,76%,NNW,6 mph ,0 mph ,29.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+22/11/2016,1:20 pm,43 F ,36 F ,76%,NNW,5 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+22/11/2016,1:50 pm,45 F ,36 F ,71%,NNW,8 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Mostly Cloudy
+22/11/2016,2:20 pm,45 F ,36 F ,71%,NNW,7 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+22/11/2016,2:50 pm,45 F ,36 F ,71%,NNW,7 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+22/11/2016,3:20 pm,43 F ,36 F ,76%,NW,5 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+22/11/2016,3:50 pm,41 F ,34 F ,76%,NW,6 mph ,0 mph ,29.5 in ,0.0 in ,0.0 in ,Partly Cloudy
+22/11/2016,4:20 pm,41 F ,34 F ,76%,WNW,5 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+22/11/2016,4:50 pm,41 F ,34 F ,76%,NW,5 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Mostly Cloudy
+22/11/2016,5:20 pm,41 F ,34 F ,76%,NW,5 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+22/11/2016,5:50 pm,41 F ,34 F ,76%,NW,5 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Partly Cloudy
+22/11/2016,6:20 pm,39 F ,34 F ,81%,WNW,5 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+22/11/2016,6:50 pm,39 F ,34 F ,81%,NW,5 mph ,0 mph ,29.6 in ,0.0 in ,0.0 in ,Fair
+22/11/2016,7:20 pm,39 F ,34 F ,81%,VAR,3 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+22/11/2016,7:50 pm,39 F ,34 F ,81%,VAR,2 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+22/11/2016,8:20 pm,36 F ,32 F ,87%,WSW,5 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+22/11/2016,8:50 pm,34 F ,30 F ,87%,WSW,6 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+22/11/2016,9:20 pm,34 F ,32 F ,93%,W,5 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+22/11/2016,9:50 pm,34 F ,32 F ,93%,W,5 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+22/11/2016,10:20 pm,32 F ,30 F ,93%,WSW,6 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+22/11/2016,10:50 pm,32 F ,30 F ,93%,WSW,7 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+22/11/2016,11:20 pm,32 F ,30 F ,93%,VAR,3 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+22/11/2016,11:50 pm,30 F ,28 F ,93%,WSW,2 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,12:20 am,30 F ,28 F ,93%,S,1 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,12:50 am,28 F ,27 F ,93%,VAR,1 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,1:20 am,28 F ,27 F ,93%,W,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,1:50 am,27 F ,25 F ,93%,VAR,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,2:20 am,27 F ,25 F ,93%,VAR,1 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,2:50 am,27 F ,25 F ,93%,WSW,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,3:20 am,25 F ,25 F ,100%,VAR,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,3:50 am,27 F ,25 F ,93%,VAR,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,4:20 am,25 F ,25 F ,100%,SW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,4:50 am,27 F ,27 F ,100%,VAR,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,5:20 am,27 F ,25 F ,93%,VAR,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,5:50 am,27 F ,27 F ,100%,SW,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,6:20 am,25 F ,23 F ,93%,VAR,1 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,6:50 am,27 F ,25 F ,93%,W,2 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,7:20 am,27 F ,25 F ,93%,W,1 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,7:50 am,27 F ,25 F ,93%,WSW,2 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,8:20 am,27 F ,25 F ,93%,W,2 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,8:50 am,27 F ,25 F ,93%,VAR,2 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,9:20 am,28 F ,27 F ,93%,W,2 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,9:50 am,30 F ,28 F ,93%,WSW,2 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,10:20 am,32 F ,30 F ,93%,WNW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,10:50 am,36 F ,32 F ,87%,VAR,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,11:20 am,37 F ,34 F ,87%,W,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,11:50 am,37 F ,34 F ,87%,VAR,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,12:20 pm,39 F ,34 F ,81%,N,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,12:50 pm,39 F ,34 F ,81%,N,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,1:20 pm,39 F ,34 F ,81%,VAR,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,1:50 pm,41 F ,34 F ,76%,WNW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,2:20 pm,41 F ,34 F ,76%,NNW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,2:50 pm,43 F ,34 F ,70%,NW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,3:20 pm,41 F ,32 F ,70%,VAR,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,3:50 pm,39 F ,32 F ,75%,VAR,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,4:20 pm,34 F ,30 F ,87%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,4:50 pm,32 F ,30 F ,93%,CALM,0 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,5:20 pm,30 F ,28 F ,93%,SSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,5:50 pm,30 F ,28 F ,93%,SW,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,6:20 pm,30 F ,28 F ,93%,WSW,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,6:50 pm,27 F ,27 F ,100%,W,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,7:20 pm,27 F ,27 F ,100%,WSW,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,7:50 pm,27 F ,27 F ,100%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,8:20 pm,27 F ,25 F ,93%,SSW,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,8:50 pm,25 F ,25 F ,100%,S,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,9:20 pm,25 F ,23 F ,93%,NNW,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,9:50 pm,25 F ,25 F ,100%,SSW,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,10:20 pm,25 F ,25 F ,100%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,10:50 pm,25 F ,25 F ,100%,W,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,11:20 pm,23 F ,23 F ,100%,W,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+23/11/2016,11:50 pm,25 F ,23 F ,93%,SSW,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,12:20 am,23 F ,23 F ,100%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,12:50 am,23 F ,21 F ,93%,W,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,1:20 am,21 F ,19 F ,93%,S,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,1:50 am,21 F ,19 F ,93%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,2:20 am,21 F ,19 F ,93%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,2:50 am,21 F ,19 F ,93%,VAR,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,3:20 am,19 F ,19 F ,100%,S,3 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Haze
+24/11/2016,3:50 am,21 F ,19 F ,93%,WSW,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,4:20 am,19 F ,19 F ,100%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,4:50 am,19 F ,19 F ,100%,VAR,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,5:20 am,21 F ,19 F ,93%,SW,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,5:50 am,21 F ,19 F ,93%,S,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,6:20 am,21 F ,19 F ,93%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,6:50 am,23 F ,23 F ,100%,SW,3 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,7:20 am,21 F ,21 F ,100%,WNW,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,7:50 am,23 F ,21 F ,93%,SW,5 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,8:20 am,21 F ,19 F ,93%,W,3 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,8:50 am,23 F ,21 F ,93%,WSW,3 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Patches of Fog
+24/11/2016,9:20 am,25 F ,23 F ,93%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,9:50 am,27 F ,27 F ,100%,CALM,0 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Patches of Fog
+24/11/2016,10:20 am,28 F ,27 F ,93%,WSW,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,10:50 am,32 F ,28 F ,87%,SW,3 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,11:20 am,32 F ,30 F ,93%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,11:50 am,34 F ,30 F ,87%,VAR,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,12:20 pm,36 F ,32 F ,87%,VAR,3 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,12:50 pm,36 F ,32 F ,87%,VAR,3 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,1:20 pm,36 F ,30 F ,81%,NNW,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,1:50 pm,39 F ,32 F ,75%,CALM,0 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,2:20 pm,41 F ,32 F ,70%,VAR,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,2:50 pm,39 F ,32 F ,75%,VAR,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,3:20 pm,37 F ,32 F ,81%,N,3 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,3:50 pm,34 F ,30 F ,87%,NW,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,4:20 pm,32 F ,30 F ,93%,WSW,3 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,4:50 pm,30 F ,28 F ,93%,NNW,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,5:20 pm,28 F ,27 F ,93%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,5:50 pm,28 F ,27 F ,93%,NNW,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Haze
+24/11/2016,6:20 pm,28 F ,27 F ,93%,VAR,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,6:50 pm,28 F ,27 F ,93%,SW,3 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,7:20 pm,27 F ,25 F ,93%,N,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,7:50 pm,25 F ,25 F ,100%,WSW,3 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,8:20 pm,27 F ,25 F ,93%,CALM,0 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,8:50 pm,25 F ,25 F ,100%,W,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mist
+24/11/2016,9:20 pm,25 F ,25 F ,100%,VAR,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,9:50 pm,25 F ,25 F ,100%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,10:20 pm,23 F ,23 F ,100%,WNW,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,10:50 pm,25 F ,23 F ,93%,VAR,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,11:20 pm,23 F ,21 F ,93%,SE,5 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+24/11/2016,11:50 pm,23 F ,23 F ,100%,CALM,0 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mist
+25/11/2016,12:20 am,21 F ,19 F ,93%,SSE,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,12:50 am,23 F ,21 F ,93%,SSE,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,1:20 am,21 F ,19 F ,93%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,1:50 am,21 F ,21 F ,100%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,2:20 am,21 F ,19 F ,93%,SE,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,2:50 am,21 F ,19 F ,93%,S,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,3:20 am,21 F ,19 F ,93%,NW,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,3:50 am,21 F ,19 F ,93%,S,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,4:20 am,25 F ,23 F ,93%,VAR,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,4:50 am,27 F ,27 F ,100%,NW,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,5:20 am,23 F ,21 F ,93%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,5:50 am,27 F ,25 F ,93%,WSW,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,6:20 am,27 F ,25 F ,93%,WSW,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,6:50 am,27 F ,25 F ,93%,W,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,7:20 am,28 F ,27 F ,93%,W,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,7:50 am,28 F ,27 F ,93%,W,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Patches of Fog
+25/11/2016,8:20 am,30 F ,28 F ,93%,WNW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Patches of Fog
+25/11/2016,8:50 am,30 F ,27 F ,86%,W,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Patches of Fog
+25/11/2016,9:20 am,32 F ,28 F ,87%,W,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Patches of Fog
+25/11/2016,9:50 am,32 F ,30 F ,93%,W,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,10:20 am,36 F ,32 F ,87%,W,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,10:50 am,36 F ,32 F ,87%,W,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,11:20 am,37 F ,34 F ,87%,WSW,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,11:50 am,39 F ,34 F ,81%,WSW,9 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,12:20 pm,39 F ,34 F ,81%,WSW,8 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,12:50 pm,41 F ,36 F ,81%,SW,10 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,1:20 pm,41 F ,36 F ,81%,WSW,12 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,1:50 pm,41 F ,36 F ,81%,WSW,10 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,2:20 pm,41 F ,36 F ,81%,WSW,10 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,2:50 pm,39 F ,36 F ,87%,WSW,10 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,3:20 pm,39 F ,34 F ,81%,WSW,10 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,3:50 pm,37 F ,34 F ,87%,WSW,7 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,4:20 pm,36 F ,34 F ,93%,WSW,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,4:50 pm,36 F ,34 F ,93%,WSW,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,5:20 pm,36 F ,34 F ,93%,W,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,5:50 pm,36 F ,34 F ,93%,W,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,6:20 pm,36 F ,34 F ,93%,W,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,6:50 pm,34 F ,32 F ,93%,WSW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,7:20 pm,34 F ,32 F ,93%,W,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,7:50 pm,36 F ,34 F ,93%,W,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,8:20 pm,36 F ,34 F ,93%,W,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,8:50 pm,32 F ,30 F ,93%,WSW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,9:20 pm,32 F ,30 F ,93%,WNW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,9:50 pm,32 F ,32 F ,100%,SW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,10:20 pm,30 F ,30 F ,100%,VAR,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,10:50 pm,30 F ,28 F ,93%,WNW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fog
+25/11/2016,11:20 pm,28 F ,27 F ,93%,SW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+25/11/2016,11:50 pm,30 F ,28 F ,93%,VAR,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,12:20 am,32 F ,30 F ,93%,WSW,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,12:50 am,34 F ,32 F ,93%,W,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,1:20 am,34 F ,32 F ,93%,W,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,1:50 am,34 F ,32 F ,93%,W,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,2:20 am,28 F ,28 F ,100%,WSW,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,2:50 am,30 F ,28 F ,93%,W,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,3:20 am,30 F ,30 F ,100%,W,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,3:50 am,30 F ,28 F ,93%,W,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,4:20 am,27 F ,27 F ,100%,W,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,4:50 am,30 F ,30 F ,100%,WNW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mist
+26/11/2016,5:20 am,28 F ,28 F ,100%,VAR,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,5:50 am,28 F ,27 F ,93%,W,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,6:20 am,32 F ,32 F ,100%,W,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,6:50 am,32 F ,32 F ,100%,WSW,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,7:20 am,34 F ,34 F ,100%,W,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,7:50 am,36 F ,34 F ,93%,WNW,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,8:20 am,34 F ,34 F ,100%,WNW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,8:50 am,36 F ,36 F ,100%,W,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,9:20 am,36 F ,36 F ,100%,VAR,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,9:50 am,36 F ,36 F ,100%,NW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,10:20 am,37 F ,36 F ,93%,VAR,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,10:50 am,39 F ,37 F ,93%,NW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,11:20 am,39 F ,37 F ,93%,VAR,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,11:50 am,37 F ,36 F ,93%,NW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,12:20 pm,37 F ,36 F ,93%,NW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,12:50 pm,37 F ,36 F ,93%,WNW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,1:20 pm,37 F ,37 F ,100%,W,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,1:50 pm,41 F ,39 F ,93%,NNW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,2:20 pm,43 F ,39 F ,87%,WNW,2 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,2:50 pm,43 F ,39 F ,87%,SW,1 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,3:20 pm,41 F ,39 F ,93%,NW,2 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,3:50 pm,39 F ,37 F ,93%,NNW,1 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,4:20 pm,37 F ,36 F ,93%,W,1 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,4:50 pm,37 F ,36 F ,93%,NW,2 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,5:20 pm,37 F ,37 F ,100%,NNW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,5:50 pm,37 F ,36 F ,93%,NW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,6:20 pm,34 F ,34 F ,100%,N,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,6:50 pm,36 F ,36 F ,100%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,7:20 pm,36 F ,36 F ,100%,W,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,7:50 pm,37 F ,36 F ,93%,S,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,8:20 pm,37 F ,37 F ,100%,VAR,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,8:50 pm,37 F ,37 F ,100%,NNW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,9:20 pm,39 F ,37 F ,93%,VAR,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+26/11/2016,9:50 pm,39 F ,39 F ,100%,NE,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Rain
+26/11/2016,10:20 pm,41 F ,39 F ,93%,VAR,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Drizzle
+26/11/2016,10:50 pm,41 F ,41 F ,100%,VAR,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Drizzle
+26/11/2016,11:20 pm,45 F ,43 F ,93%,E,8 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Cloudy
+26/11/2016,11:50 pm,45 F ,43 F ,93%,E,9 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Light Drizzle
+27/11/2016,12:20 am,45 F ,43 F ,93%,E,9 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mist
+27/11/2016,12:50 am,43 F ,43 F ,100%,E,9 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+27/11/2016,1:20 am,43 F ,41 F ,93%,E,10 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+27/11/2016,1:50 am,45 F ,39 F ,81%,E,13 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+27/11/2016,2:20 am,45 F ,39 F ,81%,E,8 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+27/11/2016,2:50 am,43 F ,37 F ,81%,E,8 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+27/11/2016,3:20 am,43 F ,39 F ,87%,ENE,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+27/11/2016,3:50 am,43 F ,39 F ,87%,E,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+27/11/2016,4:20 am,43 F ,39 F ,87%,E,8 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+27/11/2016,4:50 am,43 F ,39 F ,87%,ENE,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+27/11/2016,5:20 am,43 F ,37 F ,81%,ENE,9 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+27/11/2016,5:50 am,43 F ,37 F ,81%,ENE,12 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+27/11/2016,6:20 am,43 F ,37 F ,81%,ENE,8 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+27/11/2016,6:50 am,43 F ,37 F ,81%,ENE,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+27/11/2016,7:20 am,43 F ,37 F ,81%,NE,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+27/11/2016,7:50 am,41 F ,36 F ,81%,NE,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+27/11/2016,8:20 am,39 F ,36 F ,87%,NE,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+27/11/2016,8:50 am,39 F ,36 F ,87%,NE,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Partly Cloudy
+27/11/2016,9:20 am,41 F ,36 F ,81%,VAR,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Partly Cloudy
+27/11/2016,9:50 am,41 F ,36 F ,81%,VAR,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Partly Cloudy
+27/11/2016,10:20 am,41 F ,37 F ,87%,NW,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Partly Cloudy
+27/11/2016,10:50 am,43 F ,37 F ,81%,NW,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Partly Cloudy
+27/11/2016,11:20 am,45 F ,37 F ,76%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Partly Cloudy
+27/11/2016,11:50 am,45 F ,37 F ,76%,VAR,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Partly Cloudy
+27/11/2016,12:20 pm,46 F ,37 F ,71%,VAR,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Partly Cloudy
+27/11/2016,12:50 pm,45 F ,37 F ,76%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Partly Cloudy
+27/11/2016,1:20 pm,45 F ,37 F ,76%,VAR,3 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+27/11/2016,1:50 pm,45 F ,37 F ,76%,N,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+27/11/2016,2:20 pm,45 F ,37 F ,76%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+27/11/2016,2:50 pm,45 F ,37 F ,76%,VAR,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+27/11/2016,3:20 pm,43 F ,37 F ,81%,W,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+27/11/2016,3:50 pm,41 F ,37 F ,87%,N,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+27/11/2016,4:20 pm,41 F ,37 F ,87%,NW,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+27/11/2016,4:50 pm,41 F ,37 F ,87%,NNW,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Rain
+27/11/2016,5:20 pm,41 F ,37 F ,87%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+27/11/2016,5:50 pm,41 F ,37 F ,87%,SW,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+27/11/2016,6:20 pm,39 F ,37 F ,93%,CALM,0 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+27/11/2016,6:50 pm,39 F ,37 F ,93%,SW,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+27/11/2016,7:20 pm,37 F ,37 F ,100%,NNW,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+27/11/2016,7:50 pm,39 F ,37 F ,93%,WSW,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+27/11/2016,8:20 pm,39 F ,37 F ,93%,VAR,3 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+27/11/2016,8:50 pm,39 F ,37 F ,93%,VAR,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+27/11/2016,9:20 pm,37 F ,36 F ,93%,SW,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+27/11/2016,9:50 pm,37 F ,36 F ,93%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+27/11/2016,10:20 pm,34 F ,34 F ,100%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+27/11/2016,10:50 pm,36 F ,34 F ,93%,NW,3 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+27/11/2016,11:20 pm,34 F ,32 F ,93%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+27/11/2016,11:50 pm,34 F ,34 F ,100%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+28/11/2016,12:20 am,34 F ,34 F ,100%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+28/11/2016,12:50 am,34 F ,34 F ,100%,VAR,3 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+28/11/2016,1:20 am,34 F ,34 F ,100%,VAR,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+28/11/2016,1:50 am,34 F ,34 F ,100%,CALM,0 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+28/11/2016,2:20 am,34 F ,34 F ,100%,NE,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+28/11/2016,2:50 am,34 F ,34 F ,100%,SW,5 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,3:20 am,32 F ,32 F ,100%,E,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,3:50 am,34 F ,34 F ,100%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Light Rain
+28/11/2016,4:20 am,34 F ,32 F ,93%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Light Rain
+28/11/2016,4:50 am,32 F ,32 F ,100%,VAR,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Rain
+28/11/2016,5:20 am,32 F ,32 F ,100%,VAR,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+28/11/2016,5:50 am,32 F ,32 F ,100%,SSE,5 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,6:20 am,32 F ,32 F ,100%,NNW,2 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mist
+28/11/2016,6:50 am,34 F ,32 F ,93%,VAR,1 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,7:20 am,34 F ,34 F ,100%,VAR,2 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,7:50 am,34 F ,34 F ,100%,VAR,1 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,8:20 am,34 F ,34 F ,100%,VAR,1 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,8:50 am,34 F ,34 F ,100%,NW,1 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,9:20 am,36 F ,34 F ,93%,WSW,3 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,9:50 am,36 F ,36 F ,100%,W,2 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,10:20 am,37 F ,37 F ,100%,VAR,1 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,10:50 am,37 F ,37 F ,100%,VAR,1 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,11:20 am,39 F ,37 F ,93%,NNW,2 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,11:50 am,39 F ,37 F ,93%,VAR,2 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,12:20 pm,43 F ,39 F ,87%,NNW,2 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+28/11/2016,12:50 pm,45 F ,39 F ,81%,CALM,0 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Partly Cloudy
+28/11/2016,1:20 pm,45 F ,37 F ,76%,VAR,1 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,1:50 pm,43 F ,37 F ,81%,SSW,5 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,2:20 pm,45 F ,34 F ,66%,VAR,3 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,2:50 pm,43 F ,34 F ,70%,SSW,5 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,3:20 pm,43 F ,34 F ,70%,S,5 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,3:50 pm,43 F ,32 F ,66%,SSW,6 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,4:20 pm,43 F ,34 F ,70%,SSW,6 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,4:50 pm,41 F ,34 F ,76%,SSW,5 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,5:20 pm,43 F ,32 F ,66%,S,5 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,5:50 pm,41 F ,32 F ,70%,SSW,6 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,6:20 pm,41 F ,32 F ,70%,S,3 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,6:50 pm,37 F ,32 F ,81%,WSW,1 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,7:20 pm,37 F ,32 F ,81%,VAR,1 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,7:50 pm,34 F ,30 F ,87%,VAR,2 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,8:20 pm,34 F ,30 F ,87%,CALM,0 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,8:50 pm,34 F ,32 F ,93%,CALM,0 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,9:20 pm,34 F ,32 F ,93%,W,2 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,9:50 pm,34 F ,32 F ,93%,VAR,3 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Cloudy
+28/11/2016,10:20 pm,32 F ,30 F ,93%,WSW,1 mph ,0 mph ,30.4 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,10:50 pm,34 F ,30 F ,87%,SW,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,11:20 pm,32 F ,30 F ,93%,WSW,1 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+28/11/2016,11:50 pm,32 F ,28 F ,87%,SW,6 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+29/11/2016,12:20 am,34 F ,30 F ,87%,WSW,6 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+29/11/2016,12:50 am,34 F ,32 F ,93%,WSW,6 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+29/11/2016,1:20 am,36 F ,34 F ,93%,WSW,6 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+29/11/2016,1:50 am,39 F ,34 F ,81%,W,7 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+29/11/2016,2:20 am,39 F ,34 F ,81%,W,6 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+29/11/2016,2:50 am,39 F ,34 F ,81%,WSW,8 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+29/11/2016,3:20 am,39 F ,36 F ,87%,WSW,9 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+29/11/2016,3:50 am,39 F ,36 F ,87%,SW,8 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+29/11/2016,4:20 am,41 F ,36 F ,81%,SW,8 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+29/11/2016,4:50 am,39 F ,36 F ,87%,SW,8 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+29/11/2016,5:20 am,41 F ,36 F ,81%,SW,8 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+29/11/2016,5:50 am,41 F ,36 F ,81%,WSW,9 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+29/11/2016,6:20 am,41 F ,36 F ,81%,SW,8 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+29/11/2016,6:50 am,41 F ,36 F ,81%,SW,10 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+29/11/2016,7:20 am,41 F ,36 F ,81%,WSW,7 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+29/11/2016,7:50 am,41 F ,36 F ,81%,WSW,9 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+29/11/2016,8:20 am,41 F ,36 F ,81%,WSW,8 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+29/11/2016,8:50 am,43 F ,32 F ,66%,W,12 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+29/11/2016,9:20 am,41 F ,32 F ,70%,WSW,10 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,9:50 am,41 F ,34 F ,76%,WSW,12 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,10:20 am,41 F ,34 F ,76%,W,7 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,10:50 am,43 F ,34 F ,70%,WSW,12 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,11:20 am,43 F ,36 F ,76%,WSW,13 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,11:50 am,45 F ,36 F ,71%,WSW,12 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,12:20 pm,45 F ,37 F ,76%,SW,14 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,12:50 pm,46 F ,37 F ,71%,WSW,12 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,1:20 pm,46 F ,37 F ,71%,WSW,16 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,1:50 pm,45 F ,37 F ,76%,WSW,16 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,2:20 pm,45 F ,39 F ,81%,WSW,13 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,2:50 pm,45 F ,39 F ,81%,WSW,15 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,3:20 pm,45 F ,39 F ,81%,SW,14 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+29/11/2016,3:50 pm,45 F ,39 F ,81%,WSW,9 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Partly Cloudy
+29/11/2016,4:20 pm,45 F ,39 F ,81%,SW,13 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+29/11/2016,4:50 pm,45 F ,39 F ,81%,SW,15 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+29/11/2016,5:20 pm,45 F ,39 F ,81%,WSW,15 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+29/11/2016,5:50 pm,45 F ,39 F ,81%,SW,16 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Partly Cloudy
+29/11/2016,6:20 pm,45 F ,41 F ,87%,WSW,12 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Partly Cloudy
+29/11/2016,6:50 pm,45 F ,41 F ,87%,WSW,13 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+29/11/2016,7:20 pm,45 F ,41 F ,87%,WSW,10 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+29/11/2016,7:50 pm,45 F ,41 F ,87%,WSW,12 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,8:20 pm,43 F ,39 F ,87%,SW,10 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,8:50 pm,43 F ,39 F ,87%,WSW,10 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,9:20 pm,41 F ,37 F ,87%,WSW,8 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,9:50 pm,43 F ,37 F ,81%,WSW,12 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,10:20 pm,43 F ,37 F ,81%,WSW,9 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,10:50 pm,41 F ,37 F ,87%,WSW,8 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,11:20 pm,39 F ,37 F ,93%,WSW,10 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+29/11/2016,11:50 pm,41 F ,37 F ,87%,WSW,12 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,12:20 am,41 F ,36 F ,81%,WSW,9 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,12:50 am,39 F ,36 F ,87%,WSW,9 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Partly Cloudy
+30/11/2016,1:20 am,39 F ,36 F ,87%,WSW,10 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,1:50 am,41 F ,37 F ,87%,SW,10 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Cloudy
+30/11/2016,2:20 am,41 F ,36 F ,81%,SW,13 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Partly Cloudy
+30/11/2016,2:50 am,43 F ,37 F ,81%,SW,15 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+30/11/2016,3:20 am,43 F ,37 F ,81%,SW,12 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+30/11/2016,3:50 am,41 F ,36 F ,81%,WSW,8 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+30/11/2016,4:20 am,43 F ,36 F ,76%,SW,13 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Mostly Cloudy
+30/11/2016,4:50 am,43 F ,37 F ,81%,SW,12 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+30/11/2016,5:20 am,45 F ,37 F ,76%,SW,13 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+30/11/2016,5:50 am,45 F ,37 F ,76%,SW,12 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+30/11/2016,6:20 am,45 F ,37 F ,76%,WSW,13 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Partly Cloudy
+30/11/2016,6:50 am,45 F ,37 F ,76%,WSW,15 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,7:20 am,45 F ,37 F ,76%,WSW,12 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,7:50 am,45 F ,37 F ,76%,WSW,13 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,8:20 am,45 F ,37 F ,76%,WSW,13 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,8:50 am,45 F ,37 F ,76%,WSW,13 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,9:20 am,45 F ,37 F ,76%,WSW,15 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,9:50 am,45 F ,39 F ,81%,WSW,16 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,10:20 am,46 F ,39 F ,76%,SW,15 mph ,0 mph ,30.3 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,10:50 am,46 F ,39 F ,76%,SW,14 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,11:20 am,46 F ,39 F ,76%,WSW,16 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,11:50 am,48 F ,41 F ,76%,WSW,17 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,12:20 pm,48 F ,41 F ,76%,WSW,16 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+30/11/2016,12:50 pm,48 F ,41 F ,76%,WSW,18 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+30/11/2016,1:20 pm,48 F ,43 F ,82%,WSW,16 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+30/11/2016,1:50 pm,48 F ,43 F ,82%,WSW,14 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+30/11/2016,2:20 pm,48 F ,45 F ,87%,WSW,15 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,2:50 pm,48 F ,45 F ,87%,WSW,16 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,3:20 pm,50 F ,45 F ,82%,WSW,17 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,3:50 pm,50 F ,43 F ,76%,W,16 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,4:20 pm,50 F ,43 F ,76%,WSW,18 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,4:50 pm,50 F ,43 F ,76%,WSW,17 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,5:20 pm,50 F ,43 F ,76%,WSW,16 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,5:50 pm,50 F ,43 F ,76%,WSW,14 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,6:20 pm,50 F ,43 F ,76%,WSW,15 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,6:50 pm,50 F ,41 F ,71%,W,15 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,7:20 pm,50 F ,41 F ,71%,W,13 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,7:50 pm,48 F ,41 F ,76%,WSW,13 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,8:20 pm,48 F ,41 F ,76%,WSW,13 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,8:50 pm,48 F ,43 F ,82%,WSW,14 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,9:20 pm,50 F ,43 F ,76%,WSW,12 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,9:50 pm,50 F ,45 F ,82%,WSW,14 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+30/11/2016,10:20 pm,48 F ,45 F ,87%,WSW,14 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+30/11/2016,10:50 pm,48 F ,45 F ,87%,WSW,9 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+30/11/2016,11:20 pm,50 F ,43 F ,76%,WSW,13 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+30/11/2016,11:50 pm,48 F ,43 F ,82%,WSW,10 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+01/12/2016,12:20 am,48 F ,43 F ,82%,WSW,13 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/12/2016,12:50 am,48 F ,43 F ,82%,W,15 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+01/12/2016,1:20 am,48 F ,43 F ,82%,WSW,14 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/12/2016,1:50 am,50 F ,45 F ,82%,WSW,15 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/12/2016,2:20 am,50 F ,43 F ,76%,WSW,15 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/12/2016,2:50 am,48 F ,43 F ,82%,WSW,13 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/12/2016,3:20 am,48 F ,43 F ,82%,WSW,15 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+01/12/2016,3:50 am,50 F ,43 F ,76%,WSW,16 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+01/12/2016,4:20 am,50 F ,43 F ,76%,WSW,12 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Cloudy
+01/12/2016,4:50 am,50 F ,43 F ,76%,WSW,12 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Cloudy
+01/12/2016,5:20 am,50 F ,41 F ,71%,W,13 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+01/12/2016,5:50 am,50 F ,39 F ,66%,W,13 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+01/12/2016,6:20 am,48 F ,39 F ,71%,WSW,10 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Partly Cloudy
+01/12/2016,6:50 am,46 F ,39 F ,76%,WSW,10 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+01/12/2016,7:20 am,46 F ,39 F ,76%,WSW,9 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+01/12/2016,7:50 am,46 F ,39 F ,76%,WSW,10 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+01/12/2016,8:20 am,46 F ,37 F ,71%,WSW,12 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+01/12/2016,8:50 am,46 F ,37 F ,71%,W,10 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+01/12/2016,9:20 am,48 F ,37 F ,66%,W,13 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+01/12/2016,9:50 am,48 F ,37 F ,66%,WSW,9 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+01/12/2016,10:20 am,48 F ,37 F ,66%,WSW,13 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+01/12/2016,10:50 am,48 F ,39 F ,71%,WSW,13 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+01/12/2016,11:20 am,50 F ,39 F ,66%,WSW,13 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+01/12/2016,11:50 am,52 F ,39 F ,62%,W,12 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/12/2016,12:20 pm,50 F ,39 F ,66%,W,13 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/12/2016,12:50 pm,52 F ,39 F ,62%,WSW,13 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/12/2016,1:20 pm,52 F ,39 F ,62%,W,12 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+01/12/2016,1:50 pm,52 F ,39 F ,62%,W,10 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+01/12/2016,2:20 pm,52 F ,39 F ,62%,W,10 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Partly Cloudy
+01/12/2016,2:50 pm,50 F ,39 F ,66%,WSW,10 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+01/12/2016,3:20 pm,50 F ,39 F ,66%,WSW,9 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+01/12/2016,3:50 pm,50 F ,39 F ,66%,WSW,8 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+01/12/2016,4:20 pm,48 F ,39 F ,71%,W,8 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+01/12/2016,4:50 pm,48 F ,39 F ,71%,WSW,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+01/12/2016,5:20 pm,48 F ,39 F ,71%,W,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+01/12/2016,5:50 pm,48 F ,39 F ,71%,W,8 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+01/12/2016,6:20 pm,48 F ,39 F ,71%,W,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+01/12/2016,6:50 pm,48 F ,39 F ,71%,W,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+01/12/2016,7:20 pm,48 F ,39 F ,71%,VAR,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+01/12/2016,7:50 pm,46 F ,41 F ,81%,VAR,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+01/12/2016,8:20 pm,46 F ,41 F ,81%,WNW,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+01/12/2016,8:50 pm,46 F ,41 F ,81%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+01/12/2016,9:20 pm,46 F ,41 F ,81%,SW,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+01/12/2016,9:50 pm,46 F ,41 F ,81%,VAR,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+01/12/2016,10:20 pm,46 F ,41 F ,81%,W,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+01/12/2016,10:50 pm,46 F ,41 F ,81%,VAR,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+01/12/2016,11:20 pm,46 F ,41 F ,81%,W,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+01/12/2016,11:50 pm,43 F ,39 F ,87%,W,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,12:20 am,41 F ,39 F ,93%,W,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,12:50 am,41 F ,37 F ,87%,W,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,1:20 am,41 F ,39 F ,93%,W,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,1:50 am,37 F ,36 F ,93%,SW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,2:20 am,39 F ,37 F ,93%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,2:50 am,37 F ,36 F ,93%,VAR,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,3:20 am,37 F ,36 F ,93%,WSW,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,3:50 am,34 F ,34 F ,100%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,4:20 am,34 F ,32 F ,93%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,4:50 am,34 F ,34 F ,100%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,5:20 am,37 F ,37 F ,100%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,5:50 am,39 F ,39 F ,100%,W,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,6:20 am,41 F ,39 F ,93%,WSW,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,6:50 am,41 F ,39 F ,93%,W,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+02/12/2016,7:20 am,41 F ,39 F ,93%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+02/12/2016,7:50 am,41 F ,37 F ,87%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+02/12/2016,8:20 am,39 F ,37 F ,93%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+02/12/2016,8:50 am,41 F ,37 F ,87%,W,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+02/12/2016,9:20 am,41 F ,39 F ,93%,WSW,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+02/12/2016,9:50 am,41 F ,39 F ,93%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,10:20 am,43 F ,41 F ,93%,WSW,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,10:50 am,45 F ,41 F ,87%,WSW,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,11:20 am,43 F ,39 F ,87%,WSW,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,11:50 am,43 F ,39 F ,87%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,12:20 pm,43 F ,39 F ,87%,SSW,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,12:50 pm,43 F ,41 F ,93%,WSW,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,1:20 pm,45 F ,41 F ,87%,NNW,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,1:50 pm,45 F ,41 F ,87%,N,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,2:20 pm,45 F ,41 F ,87%,N,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,2:50 pm,45 F ,41 F ,87%,N,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,3:20 pm,43 F ,41 F ,93%,NE,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,3:50 pm,43 F ,41 F ,93%,ENE,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+02/12/2016,4:20 pm,41 F ,39 F ,93%,NE,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+02/12/2016,4:50 pm,41 F ,39 F ,93%,N,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+02/12/2016,5:20 pm,41 F ,39 F ,93%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+02/12/2016,5:50 pm,41 F ,39 F ,93%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+02/12/2016,6:20 pm,41 F ,39 F ,93%,W,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+02/12/2016,6:50 pm,41 F ,39 F ,93%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+02/12/2016,7:20 pm,39 F ,37 F ,93%,N,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Light Rain
+02/12/2016,7:50 pm,36 F ,36 F ,100%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fog
+02/12/2016,8:20 pm,37 F ,37 F ,100%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Shallow Fog
+02/12/2016,8:50 pm,36 F ,36 F ,100%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Shallow Fog
+02/12/2016,9:20 pm,36 F ,34 F ,93%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fog
+02/12/2016,9:50 pm,36 F ,34 F ,93%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Shallow Fog
+02/12/2016,10:20 pm,32 F ,30 F ,93%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fog
+02/12/2016,10:50 pm,34 F ,34 F ,100%,VAR,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fog
+02/12/2016,11:20 pm,34 F ,34 F ,100%,WSW,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Shallow Fog
+02/12/2016,11:50 pm,34 F ,34 F ,100%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+03/12/2016,12:20 am,36 F ,34 F ,93%,ESE,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+03/12/2016,12:50 am,36 F ,34 F ,93%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Light Rain
+03/12/2016,1:20 am,34 F ,34 F ,100%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Light Rain
+03/12/2016,1:50 am,34 F ,34 F ,100%,VAR,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+03/12/2016,2:20 am,36 F ,34 F ,93%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Light Rain
+03/12/2016,2:50 am,34 F ,34 F ,100%,WSW,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+03/12/2016,3:20 am,36 F ,34 F ,93%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+03/12/2016,3:50 am,34 F ,34 F ,100%,SSE,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Light Rain
+03/12/2016,4:20 am,34 F ,32 F ,93%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Light Rain
+03/12/2016,4:50 am,34 F ,34 F ,100%,NNE,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Rain
+03/12/2016,5:20 am,34 F ,34 F ,100%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+03/12/2016,5:50 am,34 F ,34 F ,100%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Light Rain
+03/12/2016,6:20 am,34 F ,34 F ,100%,NW,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+03/12/2016,6:50 am,34 F ,34 F ,100%,WSW,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+03/12/2016,7:20 am,36 F ,34 F ,93%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+03/12/2016,7:50 am,36 F ,36 F ,100%,NNE,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+03/12/2016,8:20 am,36 F ,36 F ,100%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Patches of Fog
+03/12/2016,8:50 am,34 F ,34 F ,100%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Patches of Fog
+03/12/2016,9:20 am,36 F ,34 F ,93%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Patches of Fog
+03/12/2016,9:50 am,36 F ,36 F ,100%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Patches of Fog
+03/12/2016,10:20 am,36 F ,36 F ,100%,S,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+03/12/2016,10:50 am,37 F ,37 F ,100%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Partly Cloudy
+03/12/2016,11:20 am,41 F ,39 F ,93%,NW,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+03/12/2016,11:50 am,41 F ,41 F ,100%,WNW,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+03/12/2016,12:20 pm,43 F ,41 F ,93%,N,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+03/12/2016,12:50 pm,43 F ,41 F ,93%,NNW,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+03/12/2016,1:20 pm,43 F ,41 F ,93%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+03/12/2016,1:50 pm,43 F ,41 F ,93%,N,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+03/12/2016,2:20 pm,43 F ,41 F ,93%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+03/12/2016,2:50 pm,43 F ,39 F ,87%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+03/12/2016,3:20 pm,43 F ,39 F ,87%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+03/12/2016,3:50 pm,43 F ,39 F ,87%,NW,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+03/12/2016,4:20 pm,41 F ,39 F ,93%,N,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+03/12/2016,4:50 pm,41 F ,37 F ,87%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+03/12/2016,5:20 pm,41 F ,39 F ,93%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+03/12/2016,5:50 pm,39 F ,39 F ,100%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+03/12/2016,6:20 pm,39 F ,39 F ,100%,SSE,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+03/12/2016,6:50 pm,39 F ,37 F ,93%,N,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+03/12/2016,7:20 pm,37 F ,37 F ,100%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+03/12/2016,7:50 pm,37 F ,36 F ,93%,WNW,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Shallow Fog
+03/12/2016,8:20 pm,36 F ,34 F ,93%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Shallow Fog
+03/12/2016,8:50 pm,32 F ,32 F ,100%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Shallow Fog
+03/12/2016,9:20 pm,32 F ,32 F ,100%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Shallow Fog
+03/12/2016,9:50 pm,32 F ,30 F ,93%,N,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Shallow Fog
+03/12/2016,10:20 pm,30 F ,30 F ,100%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Shallow Fog
+03/12/2016,10:50 pm,28 F ,28 F ,100%,WSW,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Shallow Fog
+03/12/2016,11:20 pm,30 F ,28 F ,93%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Shallow Fog
+03/12/2016,11:50 pm,32 F ,30 F ,93%,SSW,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+04/12/2016,12:20 am,32 F ,32 F ,100%,WSW,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+04/12/2016,12:50 am,32 F ,32 F ,100%,WSW,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+04/12/2016,1:20 am,34 F ,32 F ,93%,SW,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+04/12/2016,1:50 am,32 F ,32 F ,100%,WSW,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+04/12/2016,2:20 am,34 F ,34 F ,100%,W,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+04/12/2016,2:50 am,34 F ,34 F ,100%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+04/12/2016,3:20 am,34 F ,34 F ,100%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+04/12/2016,3:50 am,34 F ,34 F ,100%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+04/12/2016,4:20 am,34 F ,34 F ,100%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+04/12/2016,4:50 am,34 F ,34 F ,100%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+04/12/2016,5:20 am,34 F ,34 F ,100%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+04/12/2016,5:50 am,36 F ,34 F ,93%,SSW,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+04/12/2016,6:20 am,37 F ,30 F ,75%,S,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Cloudy
+04/12/2016,6:50 am,37 F ,28 F ,70%,S,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,7:20 am,32 F ,28 F ,87%,ENE,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,7:50 am,32 F ,28 F ,87%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,8:20 am,30 F ,25 F ,80%,SSE,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,8:50 am,28 F ,27 F ,93%,W,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,9:20 am,30 F ,28 F ,93%,SSW,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+04/12/2016,9:50 am,32 F ,28 F ,87%,WSW,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,10:20 am,36 F ,32 F ,87%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,10:50 am,36 F ,32 F ,87%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,11:20 am,39 F ,32 F ,75%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,11:50 am,39 F ,30 F ,70%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,12:20 pm,41 F ,32 F ,70%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,12:50 pm,41 F ,32 F ,70%,NNE,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,1:20 pm,41 F ,32 F ,70%,NNE,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,1:50 pm,41 F ,34 F ,76%,VAR,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,2:20 pm,41 F ,32 F ,70%,ESE,5 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,2:50 pm,39 F ,32 F ,75%,ESE,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,3:20 pm,37 F ,32 F ,81%,ESE,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,3:50 pm,39 F ,30 F ,70%,ESE,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+04/12/2016,4:20 pm,37 F ,32 F ,81%,ESE,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+04/12/2016,4:50 pm,39 F ,32 F ,75%,ESE,6 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+04/12/2016,5:20 pm,39 F ,32 F ,75%,SE,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+04/12/2016,5:50 pm,37 F ,30 F ,75%,E,7 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Mostly Cloudy
+04/12/2016,6:20 pm,34 F ,30 F ,87%,ENE,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,6:50 pm,34 F ,28 F ,81%,VAR,3 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,7:20 pm,32 F ,28 F ,87%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,7:50 pm,28 F ,27 F ,93%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,8:20 pm,30 F ,28 F ,93%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,8:50 pm,28 F ,27 F ,93%,W,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,9:20 pm,27 F ,25 F ,93%,VAR,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,9:50 pm,27 F ,25 F ,93%,VAR,1 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,10:20 pm,25 F ,25 F ,100%,CALM,0 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Fair
+04/12/2016,10:50 pm,25 F ,25 F ,100%,W,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Patches of Fog
+04/12/2016,11:20 pm,25 F ,23 F ,93%,SSE,2 mph ,0 mph ,30.2 in ,0.0 in ,0.0 in ,Patches of Fog
+04/12/2016,11:50 pm,25 F ,23 F ,93%,SSE,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+05/12/2016,12:20 am,25 F ,23 F ,93%,VAR,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Shallow Fog
+05/12/2016,12:50 am,23 F ,23 F ,100%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Shallow Fog
+05/12/2016,1:20 am,21 F ,21 F ,100%,VAR,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+05/12/2016,1:50 am,23 F ,23 F ,100%,VAR,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+05/12/2016,2:20 am,23 F ,21 F ,93%,VAR,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Shallow Fog
+05/12/2016,2:50 am,21 F ,21 F ,100%,NW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+05/12/2016,3:20 am,21 F ,19 F ,93%,CALM,0 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Patches of Fog
+05/12/2016,3:50 am,21 F ,19 F ,93%,S,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Patches of Fog
+05/12/2016,4:20 am,21 F ,21 F ,100%,SW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Patches of Fog
+05/12/2016,4:50 am,19 F ,19 F ,100%,VAR,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Patches of Fog
+05/12/2016,5:20 am,21 F ,19 F ,93%,S,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Patches of Fog
+05/12/2016,5:50 am,21 F ,19 F ,93%,S,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+05/12/2016,6:20 am,21 F ,19 F ,93%,CALM,0 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fair
+05/12/2016,6:50 am,21 F ,19 F ,93%,VAR,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mist
+05/12/2016,7:20 am,21 F ,21 F ,100%,WSW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fog
+05/12/2016,7:50 am,25 F ,23 F ,93%,WSW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fog
+05/12/2016,8:20 am,23 F ,21 F ,93%,NNW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fog
+05/12/2016,8:50 am,25 F ,23 F ,93%,W,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fog
+05/12/2016,9:20 am,25 F ,23 F ,93%,VAR,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fog
+05/12/2016,9:50 am,25 F ,25 F ,100%,WSW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fog
+05/12/2016,10:20 am,27 F ,27 F ,100%,VAR,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Partial Fog
+05/12/2016,10:50 am,28 F ,28 F ,100%,VAR,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Partial Fog
+05/12/2016,11:20 am,28 F ,28 F ,100%,WSW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Patches of Fog
+05/12/2016,11:50 am,30 F ,28 F ,93%,W,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Patches of Fog
+05/12/2016,12:20 pm,30 F ,30 F ,100%,W,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Partial Fog
+05/12/2016,12:50 pm,32 F ,30 F ,93%,WSW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Partial Fog
+05/12/2016,1:20 pm,32 F ,30 F ,93%,WSW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fog
+05/12/2016,1:50 pm,32 F ,32 F ,100%,W,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Partial Fog
+05/12/2016,2:20 pm,32 F ,32 F ,100%,W,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Partial Fog
+05/12/2016,2:50 pm,32 F ,32 F ,100%,W,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Patches of Fog
+05/12/2016,3:20 pm,30 F ,30 F ,100%,WSW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mist
+05/12/2016,3:50 pm,28 F ,28 F ,100%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mist
+05/12/2016,4:20 pm,28 F ,28 F ,100%,WSW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Shallow Fog
+05/12/2016,4:50 pm,28 F ,27 F ,93%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Shallow Fog
+05/12/2016,5:20 pm,25 F ,25 F ,100%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mist
+05/12/2016,5:50 pm,25 F ,23 F ,93%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Shallow Fog
+05/12/2016,6:20 pm,27 F ,27 F ,100%,WSW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mist
+05/12/2016,6:50 pm,25 F ,25 F ,100%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mist
+05/12/2016,7:20 pm,27 F ,27 F ,100%,WSW,3 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mist
+05/12/2016,7:50 pm,25 F ,25 F ,100%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fog
+05/12/2016,8:20 pm,27 F ,25 F ,93%,WSW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mist
+05/12/2016,8:50 pm,25 F ,25 F ,100%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mist
+05/12/2016,9:20 pm,23 F ,21 F ,93%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fog
+05/12/2016,9:50 pm,25 F ,23 F ,93%,WSW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mist
+05/12/2016,10:20 pm,25 F ,23 F ,93%,CALM,0 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mist
+05/12/2016,10:50 pm,25 F ,23 F ,93%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mist
+05/12/2016,11:20 pm,27 F ,25 F ,93%,CALM,0 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Patches of Fog
+05/12/2016,11:50 pm,27 F ,27 F ,100%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fog
+06/12/2016,12:20 am,27 F ,27 F ,100%,WSW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fog
+06/12/2016,12:50 am,28 F ,27 F ,93%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Freezing Rain
+06/12/2016,1:20 am,28 F ,27 F ,93%,WSW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fog
+06/12/2016,1:50 am,28 F ,27 F ,93%,WSW,6 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mist
+06/12/2016,2:20 am,28 F ,28 F ,100%,WSW,5 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fog
+06/12/2016,2:50 am,28 F ,28 F ,100%,SW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fog
+06/12/2016,3:20 am,28 F ,28 F ,100%,SW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fog
+06/12/2016,3:50 am,28 F ,28 F ,100%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fog
+06/12/2016,4:20 am,28 F ,28 F ,100%,CALM,0 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Fog
+06/12/2016,4:50 am,28 F ,28 F ,100%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Cloudy
+06/12/2016,5:20 am,30 F ,28 F ,93%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+06/12/2016,5:50 am,30 F ,30 F ,100%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+06/12/2016,6:20 am,30 F ,30 F ,100%,VAR,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+06/12/2016,6:50 am,30 F ,30 F ,100%,WSW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Mostly Cloudy
+06/12/2016,7:20 am,32 F ,30 F ,93%,VAR,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Cloudy
+06/12/2016,7:50 am,32 F ,32 F ,100%,CALM,0 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Cloudy
+06/12/2016,8:20 am,32 F ,32 F ,100%,VAR,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Cloudy
+06/12/2016,8:50 am,32 F ,32 F ,100%,VAR,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Cloudy
+06/12/2016,9:20 am,32 F ,32 F ,100%,CALM,0 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Cloudy
+06/12/2016,9:50 am,32 F ,32 F ,100%,NW,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Cloudy
+06/12/2016,10:20 am,34 F ,34 F ,100%,WNW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Cloudy
+06/12/2016,10:50 am,34 F ,34 F ,100%,NE,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Cloudy
+06/12/2016,11:20 am,34 F ,34 F ,100%,W,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Cloudy
+06/12/2016,11:50 am,36 F ,34 F ,93%,VAR,1 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Cloudy
+06/12/2016,12:20 pm,36 F ,36 F ,100%,NW,2 mph ,0 mph ,30.1 in ,0.0 in ,0.0 in ,Cloudy
+06/12/2016,12:50 pm,36 F ,36 F ,100%,SE,1 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Cloudy
+06/12/2016,1:20 pm,36 F ,36 F ,100%,VAR,2 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Cloudy
+06/12/2016,1:50 pm,37 F ,36 F ,93%,NW,1 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Cloudy
+06/12/2016,2:20 pm,37 F ,37 F ,100%,W,1 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mist
+06/12/2016,2:50 pm,37 F ,37 F ,100%,WSW,3 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mist
+06/12/2016,3:20 pm,37 F ,36 F ,93%,W,3 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Mist
+06/12/2016,3:50 pm,37 F ,37 F ,100%,VAR,1 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Light Drizzle
+06/12/2016,4:20 pm,37 F ,36 F ,93%,CALM,0 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Light Drizzle
+06/12/2016,4:50 pm,37 F ,36 F ,93%,VAR,1 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Light Rain
+06/12/2016,5:20 pm,37 F ,37 F ,100%,VAR,1 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Light Rain
+06/12/2016,5:50 pm,39 F ,39 F ,100%,VAR,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Light Rain
+06/12/2016,6:20 pm,37 F ,37 F ,100%,VAR,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Light Rain
+06/12/2016,6:50 pm,39 F ,39 F ,100%,VAR,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Light Rain
+06/12/2016,7:20 pm,41 F ,41 F ,100%,NE,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Light Rain
+06/12/2016,7:50 pm,43 F ,43 F ,100%,ENE,7 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Light Rain
+06/12/2016,8:20 pm,43 F ,43 F ,100%,NNW,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Light Rain
+06/12/2016,8:50 pm,45 F ,45 F ,100%,VAR,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Light Rain
+06/12/2016,9:20 pm,45 F ,45 F ,100%,NNE,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Light Rain
+06/12/2016,9:50 pm,46 F ,46 F ,100%,VAR,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Light Rain
+06/12/2016,10:20 pm,52 F ,48 F ,88%,SW,8 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+06/12/2016,10:50 pm,52 F ,48 F ,88%,SW,8 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+06/12/2016,11:20 pm,54 F ,48 F ,82%,WSW,9 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+06/12/2016,11:50 pm,54 F ,48 F ,82%,SW,12 mph ,23 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+07/12/2016,12:20 am,54 F ,48 F ,82%,SW,20 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+07/12/2016,12:50 am,54 F ,50 F ,88%,SW,18 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+07/12/2016,1:20 am,54 F ,50 F ,88%,SW,22 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair / Windy
+07/12/2016,1:50 am,54 F ,50 F ,88%,SW,21 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair / Windy
+07/12/2016,2:20 am,54 F ,50 F ,88%,SW,17 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+07/12/2016,2:50 am,54 F ,50 F ,88%,SW,18 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+07/12/2016,3:20 am,54 F ,50 F ,88%,SW,16 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+07/12/2016,3:50 am,54 F ,50 F ,88%,SW,14 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+07/12/2016,4:20 am,54 F ,50 F ,88%,SW,15 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+07/12/2016,4:50 am,54 F ,50 F ,88%,SW,17 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+07/12/2016,5:20 am,54 F ,50 F ,88%,SW,20 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+07/12/2016,5:50 am,54 F ,50 F ,88%,WSW,16 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+07/12/2016,6:20 am,55 F ,50 F ,82%,SW,17 mph ,29 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+07/12/2016,6:50 am,55 F ,50 F ,82%,W,8 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+07/12/2016,7:20 am,55 F ,50 F ,82%,SW,14 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+07/12/2016,7:50 am,54 F ,50 F ,88%,WSW,13 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+07/12/2016,8:20 am,55 F ,50 F ,82%,SW,15 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy
+07/12/2016,8:50 am,55 F ,52 F ,88%,WSW,15 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Showers in the Vicinity
+07/12/2016,9:20 am,55 F ,52 F ,88%,SW,20 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Showers in the Vicinity
+07/12/2016,9:50 am,55 F ,52 F ,88%,WSW,20 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy
+07/12/2016,10:20 am,55 F ,52 F ,88%,SW,22 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy / Windy
+07/12/2016,10:50 am,55 F ,52 F ,88%,SW,22 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy / Windy
+07/12/2016,11:20 am,57 F ,52 F ,82%,SSW,21 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy / Windy
+07/12/2016,11:50 am,57 F ,52 F ,82%,SSW,25 mph ,38 mph ,29.7 in ,0.0 in ,0.0 in ,Fair / Windy
+07/12/2016,12:20 pm,57 F ,52 F ,82%,SSW,21 mph ,33 mph ,29.7 in ,0.0 in ,0.0 in ,Mostly Cloudy / Windy
+07/12/2016,12:50 pm,57 F ,52 F ,82%,SSW,23 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Mostly Cloudy / Windy
+07/12/2016,1:20 pm,57 F ,52 F ,82%,SW,25 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Mostly Cloudy / Windy
+07/12/2016,1:50 pm,57 F ,52 F ,82%,SW,20 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Mostly Cloudy
+07/12/2016,2:20 pm,57 F ,54 F ,88%,WSW,18 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Light Drizzle
+07/12/2016,2:50 pm,57 F ,54 F ,88%,WSW,17 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Showers in the Vicinity
+07/12/2016,3:20 pm,57 F ,54 F ,88%,WSW,26 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Mostly Cloudy / Windy
+07/12/2016,3:50 pm,57 F ,54 F ,88%,WSW,23 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Showers in the Vicinity
+07/12/2016,4:20 pm,57 F ,54 F ,88%,SW,24 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Showers in the Vicinity
+07/12/2016,4:50 pm,57 F ,54 F ,88%,SW,25 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy / Windy
+07/12/2016,5:20 pm,57 F ,52 F ,82%,SW,24 mph ,36 mph ,29.7 in ,0.0 in ,0.0 in ,Fair / Windy
+07/12/2016,5:50 pm,57 F ,52 F ,82%,SW,25 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair / Windy
+07/12/2016,6:20 pm,57 F ,52 F ,82%,SW,25 mph ,38 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy / Windy
+07/12/2016,6:50 pm,57 F ,54 F ,88%,WSW,24 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy / Windy
+07/12/2016,7:20 pm,57 F ,54 F ,88%,WSW,21 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair / Windy
+07/12/2016,7:50 pm,57 F ,54 F ,88%,WSW,24 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair / Windy
+07/12/2016,8:20 pm,59 F ,52 F ,77%,WSW,20 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy
+07/12/2016,8:50 pm,57 F ,52 F ,82%,WSW,20 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+07/12/2016,9:20 pm,57 F ,52 F ,82%,WSW,14 mph ,26 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+07/12/2016,9:50 pm,57 F ,50 F ,77%,WSW,16 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+07/12/2016,10:20 pm,55 F ,50 F ,82%,WSW,21 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair / Windy
+07/12/2016,10:50 pm,55 F ,50 F ,82%,WSW,20 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+07/12/2016,11:20 pm,54 F ,50 F ,88%,WSW,17 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+07/12/2016,11:50 pm,54 F ,48 F ,82%,WSW,16 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,12:20 am,54 F ,48 F ,82%,WSW,16 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,12:50 am,52 F ,48 F ,88%,WSW,16 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,1:20 am,52 F ,48 F ,88%,WSW,16 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,1:50 am,52 F ,48 F ,88%,WSW,14 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,2:20 am,52 F ,46 F ,82%,WSW,13 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Partly Cloudy
+08/12/2016,2:50 am,52 F ,46 F ,82%,WSW,16 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,3:20 am,52 F ,46 F ,82%,WSW,12 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,3:50 am,50 F ,46 F ,87%,WSW,13 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,4:20 am,50 F ,46 F ,87%,WSW,14 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,4:50 am,52 F ,46 F ,82%,WSW,16 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,5:20 am,52 F ,46 F ,82%,WSW,12 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,5:50 am,50 F ,46 F ,87%,WSW,10 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,6:20 am,50 F ,46 F ,87%,WSW,10 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,6:50 am,50 F ,46 F ,87%,WSW,7 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,7:20 am,50 F ,46 F ,87%,WSW,9 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,7:50 am,50 F ,46 F ,87%,WSW,10 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,8:20 am,50 F ,46 F ,87%,WSW,9 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,8:50 am,50 F ,46 F ,87%,WSW,10 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,9:20 am,50 F ,46 F ,87%,WSW,7 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,9:50 am,50 F ,46 F ,87%,SW,10 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,10:20 am,52 F ,48 F ,88%,SW,13 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,10:50 am,52 F ,48 F ,88%,WSW,10 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,11:20 am,52 F ,48 F ,88%,WSW,9 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,11:50 am,54 F ,48 F ,82%,W,10 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,12:20 pm,52 F ,48 F ,88%,WSW,9 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,12:50 pm,54 F ,48 F ,82%,W,9 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,1:20 pm,54 F ,48 F ,82%,W,13 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,1:50 pm,54 F ,48 F ,82%,W,12 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,2:20 pm,52 F ,46 F ,82%,W,12 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,2:50 pm,52 F ,46 F ,82%,W,8 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,3:20 pm,50 F ,46 F ,87%,WSW,10 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,3:50 pm,48 F ,45 F ,87%,WSW,8 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,4:20 pm,48 F ,46 F ,93%,SW,10 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,4:50 pm,48 F ,45 F ,87%,SW,10 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,5:20 pm,46 F ,45 F ,93%,SW,8 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,5:50 pm,46 F ,45 F ,93%,SW,12 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,6:20 pm,46 F ,45 F ,93%,SW,9 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,6:50 pm,46 F ,45 F ,93%,SW,13 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Partly Cloudy
+08/12/2016,7:20 pm,46 F ,45 F ,93%,WSW,9 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,7:50 pm,46 F ,45 F ,93%,SW,10 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,8:20 pm,45 F ,43 F ,93%,W,5 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,8:50 pm,45 F ,43 F ,93%,WSW,3 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,9:20 pm,43 F ,41 F ,93%,VAR,2 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,9:50 pm,39 F ,39 F ,100%,SW,8 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,10:20 pm,41 F ,41 F ,100%,WSW,6 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Partly Cloudy
+08/12/2016,10:50 pm,43 F ,43 F ,100%,VAR,3 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Partly Cloudy
+08/12/2016,11:20 pm,41 F ,39 F ,93%,SW,5 mph ,0 mph ,30.0 in ,0.0 in ,0.0 in ,Fair
+08/12/2016,11:50 pm,43 F ,41 F ,93%,W,5 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,12:20 am,39 F ,37 F ,93%,NW,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,12:50 am,37 F ,37 F ,100%,VAR,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mist
+09/12/2016,1:20 am,37 F ,37 F ,100%,VAR,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/12/2016,1:50 am,39 F ,39 F ,100%,WSW,1 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Cloudy
+09/12/2016,2:20 am,41 F ,41 F ,100%,VAR,2 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Cloudy
+09/12/2016,2:50 am,43 F ,41 F ,93%,VAR,1 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Cloudy
+09/12/2016,3:20 am,43 F ,43 F ,100%,ENE,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Cloudy
+09/12/2016,3:50 am,45 F ,45 F ,100%,VAR,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/12/2016,4:20 am,46 F ,45 F ,93%,VAR,3 mph ,0 mph ,29.9 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/12/2016,4:50 am,46 F ,45 F ,93%,NE,7 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Light Rain
+09/12/2016,5:20 am,46 F ,45 F ,93%,VAR,3 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Light Rain
+09/12/2016,5:50 am,46 F ,45 F ,93%,NE,6 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Cloudy
+09/12/2016,6:20 am,50 F ,48 F ,94%,VAR,3 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Cloudy
+09/12/2016,6:50 am,55 F ,50 F ,82%,SW,13 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/12/2016,7:20 am,55 F ,52 F ,88%,SW,14 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/12/2016,7:50 am,55 F ,52 F ,88%,SW,17 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/12/2016,8:20 am,55 F ,50 F ,82%,SSW,16 mph ,30 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/12/2016,8:50 am,55 F ,50 F ,82%,SW,16 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/12/2016,9:20 am,55 F ,50 F ,82%,SW,13 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/12/2016,9:50 am,55 F ,52 F ,88%,SW,17 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/12/2016,10:20 am,55 F ,52 F ,88%,WSW,9 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/12/2016,10:50 am,55 F ,52 F ,88%,SW,9 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+09/12/2016,11:20 am,55 F ,52 F ,88%,SW,10 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,11:50 am,55 F ,50 F ,82%,WSW,8 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,12:20 pm,55 F ,50 F ,82%,SW,8 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,12:50 pm,55 F ,50 F ,82%,SW,10 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,1:20 pm,55 F ,50 F ,82%,SW,17 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,1:50 pm,55 F ,50 F ,82%,SW,17 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Light Rain Shower
+09/12/2016,2:20 pm,55 F ,50 F ,82%,WSW,14 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,2:50 pm,55 F ,48 F ,77%,SW,15 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,3:20 pm,55 F ,48 F ,77%,SW,16 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,3:50 pm,55 F ,48 F ,77%,SSW,17 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,4:20 pm,55 F ,48 F ,77%,SW,14 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,4:50 pm,54 F ,48 F ,82%,SW,18 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,5:20 pm,54 F ,48 F ,82%,SW,17 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,5:50 pm,54 F ,48 F ,82%,SW,16 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,6:20 pm,54 F ,48 F ,82%,SW,13 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,6:50 pm,54 F ,48 F ,82%,SW,15 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Mostly Cloudy
+09/12/2016,7:20 pm,54 F ,48 F ,82%,SW,18 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Light Rain
+09/12/2016,7:50 pm,54 F ,48 F ,82%,SW,15 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy
+09/12/2016,8:20 pm,54 F ,48 F ,82%,WSW,16 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Partly Cloudy
+09/12/2016,8:50 pm,52 F ,46 F ,82%,SW,17 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Partly Cloudy
+09/12/2016,9:20 pm,52 F ,46 F ,82%,WSW,17 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,9:50 pm,52 F ,46 F ,82%,WSW,17 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,10:20 pm,52 F ,46 F ,82%,WSW,15 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,10:50 pm,52 F ,46 F ,82%,WSW,14 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,11:20 pm,52 F ,46 F ,82%,WSW,16 mph ,0 mph ,29.7 in ,0.0 in ,0.0 in ,Fair
+09/12/2016,11:50 pm,52 F ,45 F ,76%,WSW,20 mph ,0 mph ,29.8 in ,0.0 in ,0.0 in ,Fair
+10/12/2016,,,,,,,,,,,
+10/12/2016,,,,,,,,,,,
