@@ -1,5 +1,5 @@
 # Kaggle BreadBasket
-This report used a database kernel from Kaggle, and the original file can be found [here].(https://www.kaggle.com/laalarcon/breadbasket-selling-patterns).
+This report used a database kernel from Kaggle, and the original file can be found [here](https://www.kaggle.com/laalarcon/breadbasket-selling-patterns).
 
 
 # Introduction
